@@ -1,0 +1,628 @@
+{
+    "Verkehrsfluss": [
+        {
+            "Ort": "Aachen-Zentrum",
+            "L\u00e4nge (Meter)": 2774.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 12.222222,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bl\u00fccherplatz",
+            "L\u00e4nge (Meter)": 5631.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Toresberg",
+            "L\u00e4nge (Meter)": 2454.0,
+            "Aktueller Speed (m/s)": 25.0,
+            "Freier Fluss Speed (m/s)": 25.555555,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kurbrunnenstra\u00dfe",
+            "L\u00e4nge (Meter)": 121.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Professor-Pirlet-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 549.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "RWTH-Zentrum",
+            "L\u00e4nge (Meter)": 201.0,
+            "Aktueller Speed (m/s)": 19.444445,
+            "Freier Fluss Speed (m/s)": 19.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Krefelder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 9.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Promenadenstra\u00dfe",
+            "L\u00e4nge (Meter)": 197.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "W\u00fcrselen",
+            "L\u00e4nge (Meter)": 5625.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Br\u00fcsseler Ring",
+            "L\u00e4nge (Meter)": 4446.0,
+            "Aktueller Speed (m/s)": 13.888889,
+            "Freier Fluss Speed (m/s)": 14.722222,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.8
+        },
+        {
+            "Ort": "Kurbrunnenstra\u00dfe",
+            "L\u00e4nge (Meter)": 2492.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Adalbertsteinweg",
+            "L\u00e4nge (Meter)": 228.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Krefelder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 733.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Luxemburger Ring",
+            "L\u00e4nge (Meter)": 2285.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bl\u00fccher Platz",
+            "L\u00e4nge (Meter)": 479.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.86
+        },
+        {
+            "Ort": "Westbahnhof",
+            "L\u00e4nge (Meter)": 401.0,
+            "Aktueller Speed (m/s)": 19.444445,
+            "Freier Fluss Speed (m/s)": 19.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Adenauerallee",
+            "L\u00e4nge (Meter)": 3883.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Wilhelmstra\u00dfe",
+            "L\u00e4nge (Meter)": 61.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Pariser Ring",
+            "L\u00e4nge (Meter)": 2147.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Aachen-Zentrum",
+            "L\u00e4nge (Meter)": 801.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "L\u00fctticher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1455.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Bl\u00fccher Platz",
+            "L\u00e4nge (Meter)": 462.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "L\u00fctticher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1031.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Uniklinik",
+            "L\u00e4nge (Meter)": 1852.0,
+            "Aktueller Speed (m/s)": 19.444445,
+            "Freier Fluss Speed (m/s)": 19.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "L\u00fctticher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 99.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Krefelder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 549.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Vaalser Stra\u00dfe",
+            "L\u00e4nge (Meter)": 252.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.9,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Zollernstra\u00dfe",
+            "L\u00e4nge (Meter)": 92.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Roermonder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 787.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Bl\u00fccherplatz",
+            "L\u00e4nge (Meter)": 31.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 3.9,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "L\u00fctticher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 4511.0,
+            "Aktueller Speed (m/s)": 13.611112,
+            "Freier Fluss Speed (m/s)": 15.0,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "RWTH-Zentrum",
+            "L\u00e4nge (Meter)": 603.0,
+            "Aktueller Speed (m/s)": 19.444445,
+            "Freier Fluss Speed (m/s)": 19.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eupener Stra\u00dfe",
+            "L\u00e4nge (Meter)": 3247.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 12.5,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Krefelder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 2251.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "J\u00fclicher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 212.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Aachen - Rothe Erde",
+            "L\u00e4nge (Meter)": 1624.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 25.833334,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "An der Schanz",
+            "L\u00e4nge (Meter)": 59.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "Promenadenstra\u00dfe",
+            "L\u00e4nge (Meter)": 247.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Aachen - Europaplatz",
+            "L\u00e4nge (Meter)": 188.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Vaalser Stra\u00dfe",
+            "L\u00e4nge (Meter)": 110.0,
+            "Aktueller Speed (m/s)": 13.888889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Professor-Pirlet-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 912.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Vetschau",
+            "L\u00e4nge (Meter)": 3769.0,
+            "Aktueller Speed (m/s)": 27.777779,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "An der Schanz",
+            "L\u00e4nge (Meter)": 1403.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Br\u00fcsseler Ring",
+            "L\u00e4nge (Meter)": 1400.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Roermonder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 565.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Adalbertsteinweg",
+            "L\u00e4nge (Meter)": 578.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Aachen-Laurensberg",
+            "L\u00e4nge (Meter)": 2500.0,
+            "Aktueller Speed (m/s)": 27.5,
+            "Freier Fluss Speed (m/s)": 27.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Uniklinik",
+            "L\u00e4nge (Meter)": 625.0,
+            "Aktueller Speed (m/s)": 16.944445,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "J\u00fclicher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 520.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Prager Ring",
+            "L\u00e4nge (Meter)": 411.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 5.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wilhelmstra\u00dfe",
+            "L\u00e4nge (Meter)": 2456.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "J\u00fclicher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 128.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 6.111111,
+            "Stau-Faktor": 3.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Zollernstra\u00dfe",
+            "L\u00e4nge (Meter)": 578.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "L\u00fctticher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1827.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kurbrunnenstra\u00dfe",
+            "L\u00e4nge (Meter)": 1513.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Europaplatz",
+            "L\u00e4nge (Meter)": 675.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.85
+        },
+        {
+            "Ort": "L\u00fctticher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 2191.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Aachen-Zentrum",
+            "L\u00e4nge (Meter)": 2031.0,
+            "Aktueller Speed (m/s)": 27.777779,
+            "Freier Fluss Speed (m/s)": 27.777779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "RWTH-Melaten",
+            "L\u00e4nge (Meter)": 275.0,
+            "Aktueller Speed (m/s)": 19.444445,
+            "Freier Fluss Speed (m/s)": 19.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kurbrunnenstra\u00dfe",
+            "L\u00e4nge (Meter)": 207.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 5.8333335,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.74
+        },
+        {
+            "Ort": "Prager Ring",
+            "L\u00e4nge (Meter)": 2214.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 12.222222,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "RWTH-Melaten",
+            "L\u00e4nge (Meter)": 1613.0,
+            "Aktueller Speed (m/s)": 19.444445,
+            "Freier Fluss Speed (m/s)": 19.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "L\u00fctticher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 48.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Eupener Stra\u00dfe",
+            "L\u00e4nge (Meter)": 2143.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rothe Erde",
+            "L\u00e4nge (Meter)": 2162.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Krefelder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 48.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Vaals",
+            "L\u00e4nge (Meter)": 1511.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 11.666667,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "K\u00f6pfchen",
+            "L\u00e4nge (Meter)": 3375.0,
+            "Aktueller Speed (m/s)": 15.555556,
+            "Freier Fluss Speed (m/s)": 14.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.84
+        },
+        {
+            "Ort": "Aachen-Zentrum",
+            "L\u00e4nge (Meter)": 2058.0,
+            "Aktueller Speed (m/s)": 24.722223,
+            "Freier Fluss Speed (m/s)": 23.88889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Westbahnhof",
+            "L\u00e4nge (Meter)": 279.0,
+            "Aktueller Speed (m/s)": 19.444445,
+            "Freier Fluss Speed (m/s)": 19.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Pariser Ring",
+            "L\u00e4nge (Meter)": 1677.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Europaplatz",
+            "L\u00e4nge (Meter)": 181.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Adenauerallee",
+            "L\u00e4nge (Meter)": 2409.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Luxemburger Ring",
+            "L\u00e4nge (Meter)": 3330.0,
+            "Aktueller Speed (m/s)": 14.444445,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Krefelder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1993.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 12.5,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "J\u00fclicher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 591.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Aachen - Europaplatz",
+            "L\u00e4nge (Meter)": 1440.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 17.777779,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Aachen-Laurensberg",
+            "L\u00e4nge (Meter)": 4161.0,
+            "Aktueller Speed (m/s)": 28.055557,
+            "Freier Fluss Speed (m/s)": 28.88889,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        }
+    ]
+}

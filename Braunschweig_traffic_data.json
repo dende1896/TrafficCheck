@@ -1,0 +1,1860 @@
+{
+    "Verkehrsfluss": [
+        {
+            "Ort": "Braunschweig-Heidberg",
+            "L\u00e4nge (Meter)": 967.0,
+            "Aktueller Speed (m/s)": 16.38889,
+            "Freier Fluss Speed (m/s)": 16.38889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "John-F.-Kennedy-Platz",
+            "L\u00e4nge (Meter)": 775.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hagenring",
+            "L\u00e4nge (Meter)": 859.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Berliner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 885.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "BS-Heidberg",
+            "L\u00e4nge (Meter)": 84.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.75
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcd",
+            "L\u00e4nge (Meter)": 423.0,
+            "Aktueller Speed (m/s)": 16.666668,
+            "Freier Fluss Speed (m/s)": 16.11111,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Helmstedter Stra\u00dfe",
+            "L\u00e4nge (Meter)": 314.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcd",
+            "L\u00e4nge (Meter)": 1662.0,
+            "Aktueller Speed (m/s)": 20.277779,
+            "Freier Fluss Speed (m/s)": 21.666668,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Steinweg",
+            "L\u00e4nge (Meter)": 365.0,
+            "Aktueller Speed (m/s)": 2.5,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 5.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "B\u00fcrgerpark",
+            "L\u00e4nge (Meter)": 701.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Jasperallee",
+            "L\u00e4nge (Meter)": 410.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kastanienallee",
+            "L\u00e4nge (Meter)": 276.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.74
+        },
+        {
+            "Ort": "BS-Heidberg",
+            "L\u00e4nge (Meter)": 1516.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Georg-Eckert-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 538.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Radeklint",
+            "L\u00e4nge (Meter)": 823.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcdwest",
+            "L\u00e4nge (Meter)": 471.0,
+            "Aktueller Speed (m/s)": 27.777779,
+            "Freier Fluss Speed (m/s)": 26.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "G\u00e4nsekamp",
+            "L\u00e4nge (Meter)": 1335.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Steinriedendamm",
+            "L\u00e4nge (Meter)": 1313.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Berliner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 43.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.71
+        },
+        {
+            "Ort": "\u00d6lper",
+            "L\u00e4nge (Meter)": 3284.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 6.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fchlenpfordtstra\u00dfe",
+            "L\u00e4nge (Meter)": 144.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-Heidberg",
+            "L\u00e4nge (Meter)": 1276.0,
+            "Aktueller Speed (m/s)": 25.277779,
+            "Freier Fluss Speed (m/s)": 25.833334,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Helmstedter Stra\u00dfe",
+            "L\u00e4nge (Meter)": 820.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Berliner Platz",
+            "L\u00e4nge (Meter)": 657.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "An der Rothenburg",
+            "L\u00e4nge (Meter)": 1693.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Mittelweg",
+            "L\u00e4nge (Meter)": 765.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Europaplatz",
+            "L\u00e4nge (Meter)": 1228.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "BS-S\u00fcdstadt",
+            "L\u00e4nge (Meter)": 434.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Friedrich-Seele-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 684.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Querumer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 661.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "BS-Weststadt",
+            "L\u00e4nge (Meter)": 119.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Braunschweig-Lehndorf",
+            "L\u00e4nge (Meter)": 51.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 6.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Mascheroder Weg",
+            "L\u00e4nge (Meter)": 2475.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.85
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcdstadt",
+            "L\u00e4nge (Meter)": 2121.0,
+            "Aktueller Speed (m/s)": 27.777779,
+            "Freier Fluss Speed (m/s)": 27.5,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-Lehndorf",
+            "L\u00e4nge (Meter)": 1095.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 6.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rebenring",
+            "L\u00e4nge (Meter)": 11.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Braunschweig-Lehndorf",
+            "L\u00e4nge (Meter)": 3135.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "Hans-Sommer-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 506.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eisenb\u00fctteler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 793.0,
+            "Aktueller Speed (m/s)": 13.888889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Messegel\u00e4nde",
+            "L\u00e4nge (Meter)": 998.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Amalienplatz",
+            "L\u00e4nge (Meter)": 845.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 3.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wendenring",
+            "L\u00e4nge (Meter)": 724.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hagenring",
+            "L\u00e4nge (Meter)": 72.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Radeklint",
+            "L\u00e4nge (Meter)": 514.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Altewiekring",
+            "L\u00e4nge (Meter)": 608.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Mittelweg",
+            "L\u00e4nge (Meter)": 495.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "BS-Weststadt",
+            "L\u00e4nge (Meter)": 813.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Timmerlahstra\u00dfe",
+            "L\u00e4nge (Meter)": 38.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Rote Wiese",
+            "L\u00e4nge (Meter)": 1361.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Europaplatz",
+            "L\u00e4nge (Meter)": 803.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "R\u00fcningen",
+            "L\u00e4nge (Meter)": 1363.0,
+            "Aktueller Speed (m/s)": 28.611113,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "BS-R\u00fcningen-Nord",
+            "L\u00e4nge (Meter)": 1835.0,
+            "Aktueller Speed (m/s)": 28.611113,
+            "Freier Fluss Speed (m/s)": 27.777779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Celler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 475.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rudolfplatz",
+            "L\u00e4nge (Meter)": 26.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Braunschweig-Lehndorf",
+            "L\u00e4nge (Meter)": 6179.0,
+            "Aktueller Speed (m/s)": 16.38889,
+            "Freier Fluss Speed (m/s)": 16.944445,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "\u00d6lper",
+            "L\u00e4nge (Meter)": 2484.0,
+            "Aktueller Speed (m/s)": 23.611113,
+            "Freier Fluss Speed (m/s)": 21.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Radeklint",
+            "L\u00e4nge (Meter)": 14.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Kanzlerfeld",
+            "L\u00e4nge (Meter)": 2445.0,
+            "Aktueller Speed (m/s)": 14.444445,
+            "Freier Fluss Speed (m/s)": 14.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "John-F.-Kennedy-Platz",
+            "L\u00e4nge (Meter)": 635.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Heinrich-B\u00fcssing-Ring",
+            "L\u00e4nge (Meter)": 2461.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Altewiekring",
+            "L\u00e4nge (Meter)": 303.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Humboldtstra\u00dfe",
+            "L\u00e4nge (Meter)": 484.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "BS-Gartenstadt",
+            "L\u00e4nge (Meter)": 543.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 11.944445,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kastanienallee",
+            "L\u00e4nge (Meter)": 583.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hagenmarkt",
+            "L\u00e4nge (Meter)": 724.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Madamenweg",
+            "L\u00e4nge (Meter)": 646.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcd",
+            "L\u00e4nge (Meter)": 595.0,
+            "Aktueller Speed (m/s)": 18.055555,
+            "Freier Fluss Speed (m/s)": 15.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Unbekannt",
+            "L\u00e4nge (Meter)": 307.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 5.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "BS-Melverode",
+            "L\u00e4nge (Meter)": 336.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Berliner Platz",
+            "L\u00e4nge (Meter)": 48.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 5.8333335,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "\u00d6lper",
+            "L\u00e4nge (Meter)": 1391.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "BS-Weststadt",
+            "L\u00e4nge (Meter)": 115.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Radeklint",
+            "L\u00e4nge (Meter)": 709.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcdstadt",
+            "L\u00e4nge (Meter)": 577.0,
+            "Aktueller Speed (m/s)": 23.611113,
+            "Freier Fluss Speed (m/s)": 25.555555,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Donaustra\u00dfe",
+            "L\u00e4nge (Meter)": 1627.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Ebertallee",
+            "L\u00e4nge (Meter)": 108.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.74
+        },
+        {
+            "Ort": "Rebenring",
+            "L\u00e4nge (Meter)": 1445.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Messegel\u00e4nde",
+            "L\u00e4nge (Meter)": 557.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "M\u00fcnchenstra\u00dfe",
+            "L\u00e4nge (Meter)": 1289.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "Heidbergtunnel",
+            "L\u00e4nge (Meter)": 559.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 5.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcdwest",
+            "L\u00e4nge (Meter)": 1050.0,
+            "Aktueller Speed (m/s)": 22.5,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rebenring",
+            "L\u00e4nge (Meter)": 881.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Vallstedt",
+            "L\u00e4nge (Meter)": 9309.0,
+            "Aktueller Speed (m/s)": 17.5,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "G\u00fcldenstra\u00dfe",
+            "L\u00e4nge (Meter)": 47.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 5.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Berliner Platz",
+            "L\u00e4nge (Meter)": 981.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Bevenroder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1433.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Donaustra\u00dfe",
+            "L\u00e4nge (Meter)": 632.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "John-F.-Kennedy-Platz",
+            "L\u00e4nge (Meter)": 975.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "B\u00fcrgerpark",
+            "L\u00e4nge (Meter)": 570.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Lindenbergtunnel",
+            "L\u00e4nge (Meter)": 1716.0,
+            "Aktueller Speed (m/s)": 26.111113,
+            "Freier Fluss Speed (m/s)": 25.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "G\u00fcldenstra\u00dfe",
+            "L\u00e4nge (Meter)": 836.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 5.5,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Siegfriedstra\u00dfe",
+            "L\u00e4nge (Meter)": 1289.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Forststra\u00dfe",
+            "L\u00e4nge (Meter)": 1399.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Nordtangente",
+            "L\u00e4nge (Meter)": 2992.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "B214",
+            "L\u00e4nge (Meter)": 1864.0,
+            "Aktueller Speed (m/s)": 20.833334,
+            "Freier Fluss Speed (m/s)": 19.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schmalbachstra\u00dfe",
+            "L\u00e4nge (Meter)": 1043.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Heinrich-B\u00fcssing-Ring",
+            "L\u00e4nge (Meter)": 491.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bohlweg",
+            "L\u00e4nge (Meter)": 900.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Georg-Eckert-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 311.0,
+            "Aktueller Speed (m/s)": 3.3333335,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Europaplatz",
+            "L\u00e4nge (Meter)": 878.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Braunschweig-Celler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 658.0,
+            "Aktueller Speed (m/s)": 21.38889,
+            "Freier Fluss Speed (m/s)": 21.944445,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Kastanienallee",
+            "L\u00e4nge (Meter)": 316.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nordtangente Braunschweig",
+            "L\u00e4nge (Meter)": 899.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedrich-Voigtl\u00e4nder-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1370.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Hamburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 538.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Celler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1033.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Sonnenstra\u00dfe",
+            "L\u00e4nge (Meter)": 394.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Querumer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1570.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Siegfriedstra\u00dfe",
+            "L\u00e4nge (Meter)": 2215.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcdwest",
+            "L\u00e4nge (Meter)": 1554.0,
+            "Aktueller Speed (m/s)": 25.0,
+            "Freier Fluss Speed (m/s)": 25.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-Hansestra\u00dfe",
+            "L\u00e4nge (Meter)": 2540.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nordtangente Braunschweig",
+            "L\u00e4nge (Meter)": 778.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wilhelmstra\u00dfe",
+            "L\u00e4nge (Meter)": 44.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 4.7222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.75
+        },
+        {
+            "Ort": "Bienroder Weg",
+            "L\u00e4nge (Meter)": 805.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "An der Rothenburg",
+            "L\u00e4nge (Meter)": 58.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.77
+        },
+        {
+            "Ort": "Wolfenb\u00fctteler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1018.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.83
+        },
+        {
+            "Ort": "Siegfriedstra\u00dfe",
+            "L\u00e4nge (Meter)": 81.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "Theodor-Heuss-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 18.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.73
+        },
+        {
+            "Ort": "Madamenweg",
+            "L\u00e4nge (Meter)": 1095.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Rebenring",
+            "L\u00e4nge (Meter)": 1599.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-Hamburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 694.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 15.555556,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "B214",
+            "L\u00e4nge (Meter)": 2820.0,
+            "Aktueller Speed (m/s)": 13.333334,
+            "Freier Fluss Speed (m/s)": 12.222222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Celler Heerstra\u00dfe",
+            "L\u00e4nge (Meter)": 2349.0,
+            "Aktueller Speed (m/s)": 15.0,
+            "Freier Fluss Speed (m/s)": 14.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.86
+        },
+        {
+            "Ort": "Ebertallee",
+            "L\u00e4nge (Meter)": 1268.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Braunschweig-St\u00f6ckheim",
+            "L\u00e4nge (Meter)": 1440.0,
+            "Aktueller Speed (m/s)": 33.61111,
+            "Freier Fluss Speed (m/s)": 27.777779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Mascherode",
+            "L\u00e4nge (Meter)": 2815.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 12.222222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcd",
+            "L\u00e4nge (Meter)": 496.0,
+            "Aktueller Speed (m/s)": 21.666668,
+            "Freier Fluss Speed (m/s)": 20.555555,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Europaplatz",
+            "L\u00e4nge (Meter)": 603.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Bohlweg",
+            "L\u00e4nge (Meter)": 67.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.75
+        },
+        {
+            "Ort": "Klein Gleidingen",
+            "L\u00e4nge (Meter)": 6022.0,
+            "Aktueller Speed (m/s)": 16.944445,
+            "Freier Fluss Speed (m/s)": 17.5,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kastanienallee",
+            "L\u00e4nge (Meter)": 901.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Cyriaksring",
+            "L\u00e4nge (Meter)": 788.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcdwest",
+            "L\u00e4nge (Meter)": 2288.0,
+            "Aktueller Speed (m/s)": 19.166668,
+            "Freier Fluss Speed (m/s)": 19.444445,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eisenb\u00fctteler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 556.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "John-F.-Kennedy-Platz",
+            "L\u00e4nge (Meter)": 841.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "M\u00fcnchenstra\u00dfe",
+            "L\u00e4nge (Meter)": 1141.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Timmerlahstra\u00dfe",
+            "L\u00e4nge (Meter)": 722.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Hamburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 45.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "BS-R\u00fcningen-Nord",
+            "L\u00e4nge (Meter)": 585.0,
+            "Aktueller Speed (m/s)": 26.666668,
+            "Freier Fluss Speed (m/s)": 28.333334,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedrich-Seele-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1786.0,
+            "Aktueller Speed (m/s)": 13.611112,
+            "Freier Fluss Speed (m/s)": 13.611112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Braunschweig-Melverode",
+            "L\u00e4nge (Meter)": 395.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 21.38889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-Celler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 972.0,
+            "Aktueller Speed (m/s)": 23.333334,
+            "Freier Fluss Speed (m/s)": 22.777779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedrich-Voigtl\u00e4nder-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 848.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.71
+        },
+        {
+            "Ort": "Gifhorner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 2507.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Braunschweig-Weststadt",
+            "L\u00e4nge (Meter)": 2520.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rebenring",
+            "L\u00e4nge (Meter)": 1795.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Querumer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1370.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "M\u00fcnchenstra\u00dfe",
+            "L\u00e4nge (Meter)": 188.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Siegfriedstra\u00dfe",
+            "L\u00e4nge (Meter)": 1408.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.83
+        },
+        {
+            "Ort": "M\u00fchlenpfordtstra\u00dfe",
+            "L\u00e4nge (Meter)": 774.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "BS-S\u00fcdstadt",
+            "L\u00e4nge (Meter)": 2852.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 11.944445,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Berliner Platz",
+            "L\u00e4nge (Meter)": 1429.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Herzogin-Elisabeth-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 599.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Theodor-Heuss-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1137.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "BS-Melverode",
+            "L\u00e4nge (Meter)": 3008.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.82
+        },
+        {
+            "Ort": "Fallersleber Stra\u00dfe",
+            "L\u00e4nge (Meter)": 332.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hansestra\u00dfe",
+            "L\u00e4nge (Meter)": 1047.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Humboldtstra\u00dfe",
+            "L\u00e4nge (Meter)": 398.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hagenring",
+            "L\u00e4nge (Meter)": 1181.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Altstadtring",
+            "L\u00e4nge (Meter)": 799.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Helmstedter Stra\u00dfe",
+            "L\u00e4nge (Meter)": 49.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.7
+        },
+        {
+            "Ort": "M\u00fcnchenstra\u00dfe",
+            "L\u00e4nge (Meter)": 671.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Friedrich-Voigtl\u00e4nder-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 665.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-Lehndorf",
+            "L\u00e4nge (Meter)": 179.0,
+            "Aktueller Speed (m/s)": 3.0555556,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Berliner Platz",
+            "L\u00e4nge (Meter)": 66.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 4.7222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.83
+        },
+        {
+            "Ort": "Gifhorner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 49.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Hansestra\u00dfe",
+            "L\u00e4nge (Meter)": 2473.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eintracht-Stadion",
+            "L\u00e4nge (Meter)": 954.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Cyriaksring",
+            "L\u00e4nge (Meter)": 940.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Wilhelmstra\u00dfe",
+            "L\u00e4nge (Meter)": 146.0,
+            "Aktueller Speed (m/s)": 3.0555556,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Wendenring",
+            "L\u00e4nge (Meter)": 18.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.83
+        },
+        {
+            "Ort": "Helmstedter Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1953.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rudolfplatz",
+            "L\u00e4nge (Meter)": 635.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Braunschweig-Lehndorf",
+            "L\u00e4nge (Meter)": 618.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 3.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Herzogin-Elisabeth-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1335.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Heidbergtunnel",
+            "L\u00e4nge (Meter)": 671.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 21.944445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wilhelmstra\u00dfe",
+            "L\u00e4nge (Meter)": 787.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Theodor-Heuss-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 13.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Hagenring",
+            "L\u00e4nge (Meter)": 940.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 3.5,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "Altewiekring",
+            "L\u00e4nge (Meter)": 274.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.73
+        },
+        {
+            "Ort": "Nordtangente",
+            "L\u00e4nge (Meter)": 1109.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Schmalbachstra\u00dfe",
+            "L\u00e4nge (Meter)": 947.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Heinrich-B\u00fcssing-Ring",
+            "L\u00e4nge (Meter)": 24.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Wolfenb\u00fctteler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 53.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.86
+        },
+        {
+            "Ort": "Sonnenstra\u00dfe",
+            "L\u00e4nge (Meter)": 500.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-Gartenstadt",
+            "L\u00e4nge (Meter)": 1324.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-Hamburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 33.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Eintracht-Stadion",
+            "L\u00e4nge (Meter)": 820.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "BS-R\u00fcningen",
+            "L\u00e4nge (Meter)": 1821.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Berliner Platz",
+            "L\u00e4nge (Meter)": 708.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Hagenmarkt",
+            "L\u00e4nge (Meter)": 144.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "BS-S\u00fcdstadt",
+            "L\u00e4nge (Meter)": 218.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Braunschweig-Lehndorf",
+            "L\u00e4nge (Meter)": 45.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "BS-R\u00fcningen",
+            "L\u00e4nge (Meter)": 55.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Braunschweig-Gartenstadt",
+            "L\u00e4nge (Meter)": 823.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "An der Rothenburg",
+            "L\u00e4nge (Meter)": 1220.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcd",
+            "L\u00e4nge (Meter)": 1123.0,
+            "Aktueller Speed (m/s)": 14.722222,
+            "Freier Fluss Speed (m/s)": 12.222222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurter Stra\u00dfe",
+            "L\u00e4nge (Meter)": 573.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Heinrich-B\u00fcssing-Ring",
+            "L\u00e4nge (Meter)": 730.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Amalienplatz",
+            "L\u00e4nge (Meter)": 836.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Steinweg",
+            "L\u00e4nge (Meter)": 246.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-Melverode",
+            "L\u00e4nge (Meter)": 165.0,
+            "Aktueller Speed (m/s)": 14.722222,
+            "Freier Fluss Speed (m/s)": 14.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rudolfplatz",
+            "L\u00e4nge (Meter)": 482.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rebenring",
+            "L\u00e4nge (Meter)": 1295.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Frankfurter Stra\u00dfe",
+            "L\u00e4nge (Meter)": 218.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Hamburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 204.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Braunschweig-Rautheim",
+            "L\u00e4nge (Meter)": 2308.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Altewiekring",
+            "L\u00e4nge (Meter)": 27.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.7
+        },
+        {
+            "Ort": "An der Rothenburg",
+            "L\u00e4nge (Meter)": 9309.0,
+            "Aktueller Speed (m/s)": 16.38889,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Jasperallee",
+            "L\u00e4nge (Meter)": 597.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rote Wiese",
+            "L\u00e4nge (Meter)": 153.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Hamburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1097.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wilhelmstra\u00dfe",
+            "L\u00e4nge (Meter)": 910.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Altstadtring",
+            "L\u00e4nge (Meter)": 10.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.75
+        },
+        {
+            "Ort": "Braunschweig-S\u00fcd",
+            "L\u00e4nge (Meter)": 303.0,
+            "Aktueller Speed (m/s)": 16.666668,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Hagenmarkt",
+            "L\u00e4nge (Meter)": 917.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "BS-Gartenstadt",
+            "L\u00e4nge (Meter)": 388.0,
+            "Aktueller Speed (m/s)": 14.444445,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Hans-Sommer-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 770.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "\u00d6lper",
+            "L\u00e4nge (Meter)": 1284.0,
+            "Aktueller Speed (m/s)": 26.38889,
+            "Freier Fluss Speed (m/s)": 27.222223,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Braunschweig-Lehndorf",
+            "L\u00e4nge (Meter)": 2513.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rebenring",
+            "L\u00e4nge (Meter)": 14.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.76
+        },
+        {
+            "Ort": "BS-Weststadt",
+            "L\u00e4nge (Meter)": 892.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Theodor-Heuss-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 983.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Forststra\u00dfe",
+            "L\u00e4nge (Meter)": 2224.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.83
+        },
+        {
+            "Ort": "Braunschweig-Weststadt",
+            "L\u00e4nge (Meter)": 1275.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "B214",
+            "L\u00e4nge (Meter)": 376.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Bienroder Weg",
+            "L\u00e4nge (Meter)": 40.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.83
+        },
+        {
+            "Ort": "Rudolfplatz",
+            "L\u00e4nge (Meter)": 1155.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bevenroder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1337.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.83
+        },
+        {
+            "Ort": "Kanzlerfeld",
+            "L\u00e4nge (Meter)": 3227.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.86
+        },
+        {
+            "Ort": "Bohlweg",
+            "L\u00e4nge (Meter)": 111.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "BS-S\u00fcdstadt",
+            "L\u00e4nge (Meter)": 1834.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.91
+        }
+    ]
+}
