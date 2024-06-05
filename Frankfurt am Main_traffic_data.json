@@ -1,1 +1,3884 @@
-
+{
+    "Verkehrsfluss": [
+        {
+            "Ort": "Osthafenbr\u00fccke",
+            "L\u00e4nge (Meter)": 527.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Frankfurt am Main-S\u00fcd",
+            "L\u00e4nge (Meter)": 643.0,
+            "Aktueller Speed (m/s)": 16.666668,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcrerstra\u00dfe",
+            "L\u00e4nge (Meter)": 287.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Wilhelm-Eppstein-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 359.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 3.9,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "M\u00f6rfelder Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 244.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Darmst\u00e4dter Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 2852.0,
+            "Aktueller Speed (m/s)": 18.88889,
+            "Freier Fluss Speed (m/s)": 18.61111,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ostbahnhof",
+            "L\u00e4nge (Meter)": 469.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "M\u00f6rfelder Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1514.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcrerstra\u00dfe",
+            "L\u00e4nge (Meter)": 625.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hafentunnel",
+            "L\u00e4nge (Meter)": 478.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wittelsbacher Allee",
+            "L\u00e4nge (Meter)": 507.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Neebstra\u00dfe",
+            "L\u00e4nge (Meter)": 609.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Eschersheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 32.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.84
+        },
+        {
+            "Ort": "Gartenstra\u00dfe",
+            "L\u00e4nge (Meter)": 21.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Frankfurt am Main-S\u00fcd",
+            "L\u00e4nge (Meter)": 1937.0,
+            "Aktueller Speed (m/s)": 30.277779,
+            "Freier Fluss Speed (m/s)": 28.055557,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "G\u00fctzerplatz",
+            "L\u00e4nge (Meter)": 81.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 3.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 3250.0,
+            "Aktueller Speed (m/s)": 27.777779,
+            "Freier Fluss Speed (m/s)": 27.777779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Dammgraben",
+            "L\u00e4nge (Meter)": 480.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Frankfurt am Main-S\u00fcd",
+            "L\u00e4nge (Meter)": 923.0,
+            "Aktueller Speed (m/s)": 18.333334,
+            "Freier Fluss Speed (m/s)": 18.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Kennedyallee",
+            "L\u00e4nge (Meter)": 77.0,
+            "Aktueller Speed (m/s)": 13.888889,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Triftstra\u00dfe",
+            "L\u00e4nge (Meter)": 187.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Isenburger Schneise",
+            "L\u00e4nge (Meter)": 574.0,
+            "Aktueller Speed (m/s)": 15.833334,
+            "Freier Fluss Speed (m/s)": 14.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Frankfurt am Main-Ost",
+            "L\u00e4nge (Meter)": 1905.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gro\u00dfmarkthalle",
+            "L\u00e4nge (Meter)": 352.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Kennedyallee",
+            "L\u00e4nge (Meter)": 38.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Rennbahnstra\u00dfe",
+            "L\u00e4nge (Meter)": 43.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.71
+        },
+        {
+            "Ort": "Deutschherrnufer",
+            "L\u00e4nge (Meter)": 9.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Waldschulstra\u00dfe",
+            "L\u00e4nge (Meter)": 1109.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Gerberm\u00fchlstra\u00dfe",
+            "L\u00e4nge (Meter)": 334.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schmidtstra\u00dfe",
+            "L\u00e4nge (Meter)": 1774.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Anlagenring",
+            "L\u00e4nge (Meter)": 677.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gerberm\u00fchlstra\u00dfe",
+            "L\u00e4nge (Meter)": 1211.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Palmengarten",
+            "L\u00e4nge (Meter)": 163.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Rebstock",
+            "L\u00e4nge (Meter)": 702.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Baseler Platz",
+            "L\u00e4nge (Meter)": 876.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Obermainanlage",
+            "L\u00e4nge (Meter)": 140.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Tannenkopfweg",
+            "L\u00e4nge (Meter)": 977.0,
+            "Aktueller Speed (m/s)": 19.444445,
+            "Freier Fluss Speed (m/s)": 18.88889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Am Dammgraben",
+            "L\u00e4nge (Meter)": 520.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Frankfurt am Main-Friedberger Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 2913.0,
+            "Aktueller Speed (m/s)": 24.722223,
+            "Freier Fluss Speed (m/s)": 24.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Anlagenring",
+            "L\u00e4nge (Meter)": 1465.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 28.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Kennedyallee",
+            "L\u00e4nge (Meter)": 487.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "Autobahnende A66/Miquelallee",
+            "L\u00e4nge (Meter)": 118.0,
+            "Aktueller Speed (m/s)": 15.277779,
+            "Freier Fluss Speed (m/s)": 15.277779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Guiollstra\u00dfe",
+            "L\u00e4nge (Meter)": 174.0,
+            "Aktueller Speed (m/s)": 3.0555556,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Messeparkhaus Rebstock",
+            "L\u00e4nge (Meter)": 363.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Europ\u00e4ische Zentralbank",
+            "L\u00e4nge (Meter)": 225.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Schweizer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 265.0,
+            "Aktueller Speed (m/s)": 3.0555556,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Isenburger Schneise",
+            "L\u00e4nge (Meter)": 824.0,
+            "Aktueller Speed (m/s)": 29.444445,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Offenbacher Kreuz",
+            "L\u00e4nge (Meter)": 1094.0,
+            "Aktueller Speed (m/s)": 27.777779,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Kennedyallee",
+            "L\u00e4nge (Meter)": 963.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Isenburger Schneise",
+            "L\u00e4nge (Meter)": 70.0,
+            "Aktueller Speed (m/s)": 28.333334,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Behelfsausfahrt Isenburger Schneise",
+            "L\u00e4nge (Meter)": 827.0,
+            "Aktueller Speed (m/s)": 28.333334,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Riederbruch",
+            "L\u00e4nge (Meter)": 451.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1934.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Nibelungenallee",
+            "L\u00e4nge (Meter)": 1154.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedberger Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 705.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gutleutstra\u00dfe",
+            "L\u00e4nge (Meter)": 225.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hafentunnel",
+            "L\u00e4nge (Meter)": 425.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Schlo\u00dfstra\u00dfe",
+            "L\u00e4nge (Meter)": 791.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Gartenstra\u00dfe",
+            "L\u00e4nge (Meter)": 265.0,
+            "Aktueller Speed (m/s)": 2.5,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Gerberm\u00fchlstra\u00dfe",
+            "L\u00e4nge (Meter)": 313.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Alte Br\u00fccke",
+            "L\u00e4nge (Meter)": 913.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Battonnstra\u00dfe",
+            "L\u00e4nge (Meter)": 335.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Untermainbr\u00fccke",
+            "L\u00e4nge (Meter)": 866.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Untermainanlage",
+            "L\u00e4nge (Meter)": 190.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Rosa-Luxemburg Stra\u00dfe",
+            "L\u00e4nge (Meter)": 374.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Frankfurt am Main-Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 302.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 482.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Philipp-Reis-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 29.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.7
+        },
+        {
+            "Ort": "Kennedyallee",
+            "L\u00e4nge (Meter)": 537.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Lyoner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 745.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 5.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Schwarzwaldstra\u00dfe",
+            "L\u00e4nge (Meter)": 697.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Niederr\u00e4der Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 16.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.86
+        },
+        {
+            "Ort": "Frankfurt am Main-Westhafen",
+            "L\u00e4nge (Meter)": 2557.0,
+            "Aktueller Speed (m/s)": 31.944445,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Haardtwaldstra\u00dfe",
+            "L\u00e4nge (Meter)": 574.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 12.222222,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Kennedyallee",
+            "L\u00e4nge (Meter)": 395.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Niederr\u00e4der Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1230.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 11.666667,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Kennedyallee",
+            "L\u00e4nge (Meter)": 935.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 15.0,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 531.0,
+            "Aktueller Speed (m/s)": 14.444445,
+            "Freier Fluss Speed (m/s)": 15.555556,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Offenbacher Kreuz",
+            "L\u00e4nge (Meter)": 2721.0,
+            "Aktueller Speed (m/s)": 15.555556,
+            "Freier Fluss Speed (m/s)": 16.11111,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 1144.0,
+            "Aktueller Speed (m/s)": 21.666668,
+            "Freier Fluss Speed (m/s)": 21.944445,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Flughafen-Nord",
+            "L\u00e4nge (Meter)": 685.0,
+            "Aktueller Speed (m/s)": 31.38889,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Goldsteinstra\u00dfe",
+            "L\u00e4nge (Meter)": 373.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 5.8333335,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Offenbacher Kreuz",
+            "L\u00e4nge (Meter)": 1922.0,
+            "Aktueller Speed (m/s)": 33.333336,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Babenh\u00e4user Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 3055.0,
+            "Aktueller Speed (m/s)": 16.38889,
+            "Freier Fluss Speed (m/s)": 17.5,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Untermainanlage",
+            "L\u00e4nge (Meter)": 736.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Taunusstra\u00dfe",
+            "L\u00e4nge (Meter)": 332.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eschenheimer Tor",
+            "L\u00e4nge (Meter)": 56.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Unbekannt",
+            "L\u00e4nge (Meter)": 899.0,
+            "Aktueller Speed (m/s)": 3.0555556,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 7.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "H\u00fcgelstra\u00dfe",
+            "L\u00e4nge (Meter)": 970.0,
+            "Aktueller Speed (m/s)": 16.666668,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt-Rebstock",
+            "L\u00e4nge (Meter)": 1388.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Philipp-Reis-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 544.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.71
+        },
+        {
+            "Ort": "Basler Platz",
+            "L\u00e4nge (Meter)": 774.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Am R\u00f6merhof",
+            "L\u00e4nge (Meter)": 775.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Heinrich-Sellger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1202.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Frankfurt am Main-Niederrad",
+            "L\u00e4nge (Meter)": 627.0,
+            "Aktueller Speed (m/s)": 33.055557,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rfelder Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 785.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Gartenstra\u00dfe",
+            "L\u00e4nge (Meter)": 901.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stresemannallee",
+            "L\u00e4nge (Meter)": 306.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Otto-Fleck-Schneise",
+            "L\u00e4nge (Meter)": 835.0,
+            "Aktueller Speed (m/s)": 21.944445,
+            "Freier Fluss Speed (m/s)": 21.944445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedensbr\u00fccke",
+            "L\u00e4nge (Meter)": 368.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hafenstra\u00dfe",
+            "L\u00e4nge (Meter)": 277.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schwarzwaldstra\u00dfe",
+            "L\u00e4nge (Meter)": 203.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.77
+        },
+        {
+            "Ort": "Anlagenring",
+            "L\u00e4nge (Meter)": 81.0,
+            "Aktueller Speed (m/s)": 3.3333335,
+            "Freier Fluss Speed (m/s)": 5.8333335,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rothschildallee",
+            "L\u00e4nge (Meter)": 1264.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ginnheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 16.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Am Hohen Weg",
+            "L\u00e4nge (Meter)": 530.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Katharinenkreisel",
+            "L\u00e4nge (Meter)": 1636.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Anlagenring",
+            "L\u00e4nge (Meter)": 71.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Unbekannt",
+            "L\u00e4nge (Meter)": 260.0,
+            "Aktueller Speed (m/s)": 1.6666667,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 8.7,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Hafenstra\u00dfe",
+            "L\u00e4nge (Meter)": 794.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gartenstra\u00dfe",
+            "L\u00e4nge (Meter)": 222.0,
+            "Aktueller Speed (m/s)": 2.5,
+            "Freier Fluss Speed (m/s)": 5.8333335,
+            "Stau-Faktor": 3.9,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Baseler Platz",
+            "L\u00e4nge (Meter)": 241.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bockenheimer Warte",
+            "L\u00e4nge (Meter)": 164.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 65.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Homburger Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 2835.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.84
+        },
+        {
+            "Ort": "Bremer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 403.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "R\u00f6delheimer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 711.0,
+            "Aktueller Speed (m/s)": 13.888889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Anschluss Theodor-Heuss-Allee",
+            "L\u00e4nge (Meter)": 93.0,
+            "Aktueller Speed (m/s)": 15.0,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Rebstock",
+            "L\u00e4nge (Meter)": 658.0,
+            "Aktueller Speed (m/s)": 15.277779,
+            "Freier Fluss Speed (m/s)": 14.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Ratsweg",
+            "L\u00e4nge (Meter)": 1771.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rfelder Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 37.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Kennedyallee",
+            "L\u00e4nge (Meter)": 868.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Mainzer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 37.0,
+            "Aktueller Speed (m/s)": 1.9444445,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Gutleutstra\u00dfe",
+            "L\u00e4nge (Meter)": 37.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Platz der Republik",
+            "L\u00e4nge (Meter)": 404.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Offenbacher Kreuz",
+            "L\u00e4nge (Meter)": 1072.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.86
+        },
+        {
+            "Ort": "Frankfurt am Main-Otto-Fleck-Schneise",
+            "L\u00e4nge (Meter)": 1097.0,
+            "Aktueller Speed (m/s)": 19.166668,
+            "Freier Fluss Speed (m/s)": 20.277779,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Industriehof",
+            "L\u00e4nge (Meter)": 706.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stresemannallee",
+            "L\u00e4nge (Meter)": 728.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gutleutstra\u00dfe",
+            "L\u00e4nge (Meter)": 609.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Schwarzwaldstra\u00dfe",
+            "L\u00e4nge (Meter)": 494.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Eschersheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 709.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Basler Platz",
+            "L\u00e4nge (Meter)": 150.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Heerstra\u00dfe",
+            "L\u00e4nge (Meter)": 1207.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Osthafenbr\u00fccke",
+            "L\u00e4nge (Meter)": 1210.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Honsellstra\u00dfe",
+            "L\u00e4nge (Meter)": 1747.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eschersheimer Anlage",
+            "L\u00e4nge (Meter)": 38.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 5.555556,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Theodor-Stern-Kai",
+            "L\u00e4nge (Meter)": 41.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.73
+        },
+        {
+            "Ort": "Gartenstra\u00dfe",
+            "L\u00e4nge (Meter)": 52.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Westhafen",
+            "L\u00e4nge (Meter)": 2730.0,
+            "Aktueller Speed (m/s)": 13.055556,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Niederr\u00e4der Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 833.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 15.277779,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stra\u00dfburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 695.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Mainzer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 772.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Lyoner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 630.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 12.222222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Galluswarte",
+            "L\u00e4nge (Meter)": 1013.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stresemannallee",
+            "L\u00e4nge (Meter)": 1356.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 11.666667,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Habsburgerallee",
+            "L\u00e4nge (Meter)": 678.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "H\u00fcgelstra\u00dfe",
+            "L\u00e4nge (Meter)": 2469.0,
+            "Aktueller Speed (m/s)": 16.944445,
+            "Freier Fluss Speed (m/s)": 20.0,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Obermainanlage",
+            "L\u00e4nge (Meter)": 588.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Eschersheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 894.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Miquelallee",
+            "L\u00e4nge (Meter)": 500.0,
+            "Aktueller Speed (m/s)": 21.38889,
+            "Freier Fluss Speed (m/s)": 21.666668,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wittelsbacher Allee",
+            "L\u00e4nge (Meter)": 627.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Isenburger Schneise",
+            "L\u00e4nge (Meter)": 2875.0,
+            "Aktueller Speed (m/s)": 18.61111,
+            "Freier Fluss Speed (m/s)": 18.88889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Frankfurt am Main-S\u00fcd",
+            "L\u00e4nge (Meter)": 2043.0,
+            "Aktueller Speed (m/s)": 32.22222,
+            "Freier Fluss Speed (m/s)": 28.88889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Waldparkplatz",
+            "L\u00e4nge (Meter)": 1427.0,
+            "Aktueller Speed (m/s)": 3.3333335,
+            "Freier Fluss Speed (m/s)": 3.3333335,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.7
+        },
+        {
+            "Ort": "Frankfurt am Main-S\u00fcd",
+            "L\u00e4nge (Meter)": 671.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 4.166667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt-Rebstock",
+            "L\u00e4nge (Meter)": 48.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.76
+        },
+        {
+            "Ort": "Theodor-Stern-Kai",
+            "L\u00e4nge (Meter)": 642.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 1852.0,
+            "Aktueller Speed (m/s)": 30.833334,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Zepplinheim",
+            "L\u00e4nge (Meter)": 2715.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wittelsbacher Allee",
+            "L\u00e4nge (Meter)": 1317.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedberger Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1333.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gleisdreieck",
+            "L\u00e4nge (Meter)": 1189.0,
+            "Aktueller Speed (m/s)": 13.333334,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.84
+        },
+        {
+            "Ort": "Untermainbr\u00fccke",
+            "L\u00e4nge (Meter)": 165.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "G\u00fctzerplatz",
+            "L\u00e4nge (Meter)": 2914.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Eckenheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 702.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wilhelm-Eppstein-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1738.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Mainzer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 50.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Guiollstra\u00dfe",
+            "L\u00e4nge (Meter)": 116.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Adickesallee",
+            "L\u00e4nge (Meter)": 405.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Bornheimer Hang",
+            "L\u00e4nge (Meter)": 456.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedberger Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 789.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wilhelm-Eppstein-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 176.0,
+            "Aktueller Speed (m/s)": 16.666668,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Darmst\u00e4dter Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 489.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Museumsufer",
+            "L\u00e4nge (Meter)": 27.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Frankfurt am Main-Otto-Fleck-Schneise",
+            "L\u00e4nge (Meter)": 1392.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 3.3333335,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.8
+        },
+        {
+            "Ort": "Darmst\u00e4dter Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 378.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.9,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Friedberger Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1286.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wittelsbacher Allee",
+            "L\u00e4nge (Meter)": 1304.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Messeparkhaus Rebstock",
+            "L\u00e4nge (Meter)": 2838.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stresemannallee",
+            "L\u00e4nge (Meter)": 484.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Galluswarte",
+            "L\u00e4nge (Meter)": 1972.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schlo\u00dfstra\u00dfe",
+            "L\u00e4nge (Meter)": 1731.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Frankfurter Messe",
+            "L\u00e4nge (Meter)": 313.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Basler Platz",
+            "L\u00e4nge (Meter)": 63.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Alte Br\u00fccke",
+            "L\u00e4nge (Meter)": 770.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Camberger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 835.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedberger Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 43.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.78
+        },
+        {
+            "Ort": "Siemensstra\u00dfe",
+            "L\u00e4nge (Meter)": 311.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Honsellstra\u00dfe",
+            "L\u00e4nge (Meter)": 226.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Gro\u00dfmarkthalle",
+            "L\u00e4nge (Meter)": 428.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schaumainkai",
+            "L\u00e4nge (Meter)": 85.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Kennedyallee",
+            "L\u00e4nge (Meter)": 1149.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 11.666667,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.75
+        },
+        {
+            "Ort": "Stresemannallee",
+            "L\u00e4nge (Meter)": 1210.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Ratswegbr\u00fccke",
+            "L\u00e4nge (Meter)": 512.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schlo\u00dfstra\u00dfe",
+            "L\u00e4nge (Meter)": 27.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Frankfurt am Main-Isenburger Schneise",
+            "L\u00e4nge (Meter)": 116.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eschenheimer Tor",
+            "L\u00e4nge (Meter)": 753.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Offenbacher Kreuz",
+            "L\u00e4nge (Meter)": 5620.0,
+            "Aktueller Speed (m/s)": 30.833334,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedhofstra\u00dfe",
+            "L\u00e4nge (Meter)": 1227.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "R\u00f6delheim-West",
+            "L\u00e4nge (Meter)": 1941.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Neebstra\u00dfe",
+            "L\u00e4nge (Meter)": 2643.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.83
+        },
+        {
+            "Ort": "Friedhofstra\u00dfe",
+            "L\u00e4nge (Meter)": 2132.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurter Stra\u00dfe",
+            "L\u00e4nge (Meter)": 3759.0,
+            "Aktueller Speed (m/s)": 13.055556,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Flughafen-Nord",
+            "L\u00e4nge (Meter)": 2408.0,
+            "Aktueller Speed (m/s)": 31.38889,
+            "Freier Fluss Speed (m/s)": 28.88889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Europ\u00e4ische Zentralbank",
+            "L\u00e4nge (Meter)": 542.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Westkreuz Frankfurt am Main",
+            "L\u00e4nge (Meter)": 3039.0,
+            "Aktueller Speed (m/s)": 35.0,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kurt-Schumacher-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 841.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 5.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Anlagenring",
+            "L\u00e4nge (Meter)": 1307.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Katharinenkreisel",
+            "L\u00e4nge (Meter)": 921.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Langestra\u00dfe",
+            "L\u00e4nge (Meter)": 361.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Bockenheimer Warte",
+            "L\u00e4nge (Meter)": 1258.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 397.0,
+            "Aktueller Speed (m/s)": 13.611112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Borsigallee",
+            "L\u00e4nge (Meter)": 1763.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Otto-Fleck-Schneise",
+            "L\u00e4nge (Meter)": 1097.0,
+            "Aktueller Speed (m/s)": 19.166668,
+            "Freier Fluss Speed (m/s)": 20.277779,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Deutschordenstra\u00dfe",
+            "L\u00e4nge (Meter)": 326.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Platz der Republik",
+            "L\u00e4nge (Meter)": 733.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 3.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stra\u00dfburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1303.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.77
+        },
+        {
+            "Ort": "Anlagenring",
+            "L\u00e4nge (Meter)": 1321.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Messeparkhaus Rebstock",
+            "L\u00e4nge (Meter)": 520.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Platz der Republik",
+            "L\u00e4nge (Meter)": 43.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Anlagenring",
+            "L\u00e4nge (Meter)": 101.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Alt Praunheim",
+            "L\u00e4nge (Meter)": 2683.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Deutschherrnufer",
+            "L\u00e4nge (Meter)": 179.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Colmarar Stra\u00dfe",
+            "L\u00e4nge (Meter)": 686.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.86
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 1147.0,
+            "Aktueller Speed (m/s)": 14.166667,
+            "Freier Fluss Speed (m/s)": 17.222223,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Frankfurt am Main-Flughafen-Nord",
+            "L\u00e4nge (Meter)": 3501.0,
+            "Aktueller Speed (m/s)": 33.88889,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rosa-Luxemburg-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 728.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Frankfurt am Main-Niederrad",
+            "L\u00e4nge (Meter)": 2774.0,
+            "Aktueller Speed (m/s)": 34.72222,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am R\u00f6merhof",
+            "L\u00e4nge (Meter)": 42.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Siemensstra\u00dfe",
+            "L\u00e4nge (Meter)": 311.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Tannenkopfweg",
+            "L\u00e4nge (Meter)": 586.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.84
+        },
+        {
+            "Ort": "Triftstra\u00dfe",
+            "L\u00e4nge (Meter)": 272.0,
+            "Aktueller Speed (m/s)": 2.5,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.81
+        },
+        {
+            "Ort": "Frankfurt am Main-Otto-Fleck-Schneise",
+            "L\u00e4nge (Meter)": 2108.0,
+            "Aktueller Speed (m/s)": 30.0,
+            "Freier Fluss Speed (m/s)": 26.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Niederr\u00e4der Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 779.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 15.555556,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Katharinenkreisel",
+            "L\u00e4nge (Meter)": 375.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hanauer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 352.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Mainzer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 66.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Niederrad",
+            "L\u00e4nge (Meter)": 1093.0,
+            "Aktueller Speed (m/s)": 14.722222,
+            "Freier Fluss Speed (m/s)": 15.833334,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Galluswarte",
+            "L\u00e4nge (Meter)": 33.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Offenbach-Kaiserlei",
+            "L\u00e4nge (Meter)": 2121.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 12.5,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Allerheiligentor",
+            "L\u00e4nge (Meter)": 668.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedberger Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 2680.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Platz der Republik",
+            "L\u00e4nge (Meter)": 448.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Fl\u00f6sserbr\u00fccke",
+            "L\u00e4nge (Meter)": 95.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Honsellstra\u00dfe",
+            "L\u00e4nge (Meter)": 17.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Schlo\u00dfstra\u00dfe",
+            "L\u00e4nge (Meter)": 858.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Niederr\u00e4der Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 933.0,
+            "Aktueller Speed (m/s)": 13.055556,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Camberger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 2479.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 12.5,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Frankfurter Kreuz",
+            "L\u00e4nge (Meter)": 2585.0,
+            "Aktueller Speed (m/s)": 29.166668,
+            "Freier Fluss Speed (m/s)": 28.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Oberforsthaus",
+            "L\u00e4nge (Meter)": 933.0,
+            "Aktueller Speed (m/s)": 14.444445,
+            "Freier Fluss Speed (m/s)": 16.38889,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Kennedyallee",
+            "L\u00e4nge (Meter)": 235.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 13.611112,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rfelder Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 377.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.8,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Frankfurter Messe",
+            "L\u00e4nge (Meter)": 404.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Anschluss Theodor-Heuss-Allee",
+            "L\u00e4nge (Meter)": 1023.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Miquelallee",
+            "L\u00e4nge (Meter)": 806.0,
+            "Aktueller Speed (m/s)": 16.11111,
+            "Freier Fluss Speed (m/s)": 15.277779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Hofhausstra\u00dfe",
+            "L\u00e4nge (Meter)": 2608.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Deutschordenstra\u00dfe",
+            "L\u00e4nge (Meter)": 65.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.75
+        },
+        {
+            "Ort": "Stresemannallee",
+            "L\u00e4nge (Meter)": 1385.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Katharinenkreisel",
+            "L\u00e4nge (Meter)": 1636.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Battonnstra\u00dfe",
+            "L\u00e4nge (Meter)": 595.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Arena",
+            "L\u00e4nge (Meter)": 258.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 11.944445,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.85
+        },
+        {
+            "Ort": "Frankfurt am Main-Miquelallee",
+            "L\u00e4nge (Meter)": 604.0,
+            "Aktueller Speed (m/s)": 16.38889,
+            "Freier Fluss Speed (m/s)": 15.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Isenburger Schneise",
+            "L\u00e4nge (Meter)": 266.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Babenh\u00e4user Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 92.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Niederr\u00e4der Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1230.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 11.666667,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 4311.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 14.166667,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 2681.0,
+            "Aktueller Speed (m/s)": 26.111113,
+            "Freier Fluss Speed (m/s)": 27.222223,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1585.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Bockenheimer Warte",
+            "L\u00e4nge (Meter)": 660.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Guiollstra\u00dfe",
+            "L\u00e4nge (Meter)": 104.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Dreieichstra\u00dfe",
+            "L\u00e4nge (Meter)": 340.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 5.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1733.0,
+            "Aktueller Speed (m/s)": 28.88889,
+            "Freier Fluss Speed (m/s)": 28.611113,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Rebstock",
+            "L\u00e4nge (Meter)": 555.0,
+            "Aktueller Speed (m/s)": 25.555555,
+            "Freier Fluss Speed (m/s)": 26.38889,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Osthafenbr\u00fccke",
+            "L\u00e4nge (Meter)": 12.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Am Industriehof",
+            "L\u00e4nge (Meter)": 2578.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.84
+        },
+        {
+            "Ort": "Am Riederbruch",
+            "L\u00e4nge (Meter)": 363.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Deutschherrnufer",
+            "L\u00e4nge (Meter)": 37.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Biegweg",
+            "L\u00e4nge (Meter)": 399.0,
+            "Aktueller Speed (m/s)": 26.944445,
+            "Freier Fluss Speed (m/s)": 25.555555,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Offenbacher Kreuz",
+            "L\u00e4nge (Meter)": 2095.0,
+            "Aktueller Speed (m/s)": 33.055557,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kurt-Schumacher-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 427.0,
+            "Aktueller Speed (m/s)": 3.3333335,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Am Bornheimer Hang",
+            "L\u00e4nge (Meter)": 425.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "R\u00f6delheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 753.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "R\u00f6delheimer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 719.0,
+            "Aktueller Speed (m/s)": 3.0555556,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 5.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Anschluss Theodor-Heuss-Allee",
+            "L\u00e4nge (Meter)": 418.0,
+            "Aktueller Speed (m/s)": 15.833334,
+            "Freier Fluss Speed (m/s)": 17.222223,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Habsburger Allee",
+            "L\u00e4nge (Meter)": 1342.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Westkreuz Frankfurt am Main",
+            "L\u00e4nge (Meter)": 1463.0,
+            "Aktueller Speed (m/s)": 27.5,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Isenburger Schneise",
+            "L\u00e4nge (Meter)": 2951.0,
+            "Aktueller Speed (m/s)": 16.38889,
+            "Freier Fluss Speed (m/s)": 17.222223,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Isenburger Schneise",
+            "L\u00e4nge (Meter)": 3050.0,
+            "Aktueller Speed (m/s)": 18.055555,
+            "Freier Fluss Speed (m/s)": 17.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.86
+        },
+        {
+            "Ort": "Anschluss Theodor-Heuss-Allee",
+            "L\u00e4nge (Meter)": 1410.0,
+            "Aktueller Speed (m/s)": 21.111113,
+            "Freier Fluss Speed (m/s)": 20.555555,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ludwig-Erhard-Anlage",
+            "L\u00e4nge (Meter)": 500.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Miquelallee",
+            "L\u00e4nge (Meter)": 1532.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Deutschherrnufer",
+            "L\u00e4nge (Meter)": 34.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Niederr\u00e4der Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 16.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Goldsteinstra\u00dfe",
+            "L\u00e4nge (Meter)": 1051.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Museumsufer",
+            "L\u00e4nge (Meter)": 424.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Frankfurt am Main-S\u00fcd",
+            "L\u00e4nge (Meter)": 5643.0,
+            "Aktueller Speed (m/s)": 28.333334,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "S\u00fcdkreisel",
+            "L\u00e4nge (Meter)": 803.0,
+            "Aktueller Speed (m/s)": 15.555556,
+            "Freier Fluss Speed (m/s)": 16.11111,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Westhafen",
+            "L\u00e4nge (Meter)": 508.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Colmarar Stra\u00dfe",
+            "L\u00e4nge (Meter)": 607.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.85
+        },
+        {
+            "Ort": "Frankfurt am Main-Ost",
+            "L\u00e4nge (Meter)": 1824.0,
+            "Aktueller Speed (m/s)": 26.666668,
+            "Freier Fluss Speed (m/s)": 26.38889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gutleutstra\u00dfe",
+            "L\u00e4nge (Meter)": 30.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.75
+        },
+        {
+            "Ort": "Schmidtstra\u00dfe",
+            "L\u00e4nge (Meter)": 395.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "D\u00fcrerstra\u00dfe",
+            "L\u00e4nge (Meter)": 295.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Schmidtstra\u00dfe",
+            "L\u00e4nge (Meter)": 1495.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Am R\u00f6merhof",
+            "L\u00e4nge (Meter)": 551.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.71
+        },
+        {
+            "Ort": "Friedensbr\u00fccke",
+            "L\u00e4nge (Meter)": 313.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Niederr\u00e4der Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 621.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.78
+        },
+        {
+            "Ort": "Frankfurt am Main-Kennedyallee",
+            "L\u00e4nge (Meter)": 771.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 15.277779,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schweizer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1287.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am R\u00f6merhof",
+            "L\u00e4nge (Meter)": 36.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 5.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.73
+        },
+        {
+            "Ort": "Sch\u00f6ne Aussicht",
+            "L\u00e4nge (Meter)": 339.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Taunusanlage",
+            "L\u00e4nge (Meter)": 117.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Junghofstra\u00dfe",
+            "L\u00e4nge (Meter)": 157.0,
+            "Aktueller Speed (m/s)": 3.3333335,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hafenstra\u00dfe",
+            "L\u00e4nge (Meter)": 354.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hafenstra\u00dfe",
+            "L\u00e4nge (Meter)": 827.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Baseler Platz",
+            "L\u00e4nge (Meter)": 850.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Goldsteinstra\u00dfe",
+            "L\u00e4nge (Meter)": 380.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "M\u00f6rfelder Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 136.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Oeser Stra\u00dfe",
+            "L\u00e4nge (Meter)": 304.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Oeser Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1464.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Ludwig-Erhard-Anlage",
+            "L\u00e4nge (Meter)": 1870.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stresemannallee",
+            "L\u00e4nge (Meter)": 1410.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Museumsufer",
+            "L\u00e4nge (Meter)": 49.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 6.111111,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rothschildallee",
+            "L\u00e4nge (Meter)": 32.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Parkpl\u00e4tze Zoo",
+            "L\u00e4nge (Meter)": 726.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Dreieichstra\u00dfe",
+            "L\u00e4nge (Meter)": 377.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Platz der Republik",
+            "L\u00e4nge (Meter)": 739.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schweizer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 722.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Dornbusch",
+            "L\u00e4nge (Meter)": 753.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wittelsbacher Allee",
+            "L\u00e4nge (Meter)": 770.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Katharinenkreisel",
+            "L\u00e4nge (Meter)": 157.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eschersheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1112.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Deutschordenstra\u00dfe",
+            "L\u00e4nge (Meter)": 1314.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 15.0,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Ginnheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 763.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.84
+        },
+        {
+            "Ort": "Haardtwaldstra\u00dfe",
+            "L\u00e4nge (Meter)": 1277.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 15.555556,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Erlenbruch-Dreieck",
+            "L\u00e4nge (Meter)": 2328.0,
+            "Aktueller Speed (m/s)": 23.611113,
+            "Freier Fluss Speed (m/s)": 23.611113,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 681.0,
+            "Aktueller Speed (m/s)": 13.333334,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gartenstra\u00dfe",
+            "L\u00e4nge (Meter)": 199.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Museumsufer",
+            "L\u00e4nge (Meter)": 134.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 6.111111,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Basler Platz",
+            "L\u00e4nge (Meter)": 876.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Sonnemannstra\u00dfe",
+            "L\u00e4nge (Meter)": 77.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rfelder Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 502.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Behelfsausfahrt Isenburger Schneise",
+            "L\u00e4nge (Meter)": 89.0,
+            "Aktueller Speed (m/s)": 28.88889,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Darmst\u00e4dter Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1227.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Haardtwaldstra\u00dfe",
+            "L\u00e4nge (Meter)": 226.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Offenbacher Kreuz",
+            "L\u00e4nge (Meter)": 3608.0,
+            "Aktueller Speed (m/s)": 21.111113,
+            "Freier Fluss Speed (m/s)": 19.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Alte Br\u00fccke",
+            "L\u00e4nge (Meter)": 400.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Theatertunnel",
+            "L\u00e4nge (Meter)": 1311.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Katharinenkreisel",
+            "L\u00e4nge (Meter)": 582.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Frankfurt am Main-Isenburger Schneise",
+            "L\u00e4nge (Meter)": 280.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 13.611112,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Kennedyallee",
+            "L\u00e4nge (Meter)": 1064.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Biegweg",
+            "L\u00e4nge (Meter)": 585.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 23.055555,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Sonnemannstra\u00dfe",
+            "L\u00e4nge (Meter)": 444.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedberger Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 664.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rennbahnstra\u00dfe",
+            "L\u00e4nge (Meter)": 342.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.84
+        },
+        {
+            "Ort": "Ludwig-Erhard-Anlage",
+            "L\u00e4nge (Meter)": 735.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schwanheimer Ufer",
+            "L\u00e4nge (Meter)": 337.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurter Kreuz",
+            "L\u00e4nge (Meter)": 2512.0,
+            "Aktueller Speed (m/s)": 26.38889,
+            "Freier Fluss Speed (m/s)": 26.944445,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedberger Warte",
+            "L\u00e4nge (Meter)": 543.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Strassburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1021.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.77
+        },
+        {
+            "Ort": "Osthafenbr\u00fccke",
+            "L\u00e4nge (Meter)": 1910.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Anlagenring",
+            "L\u00e4nge (Meter)": 333.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 5.8333335,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Galluswarte",
+            "L\u00e4nge (Meter)": 612.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Rosa-Luxemburg-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1091.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Isenburger Schneise",
+            "L\u00e4nge (Meter)": 87.0,
+            "Aktueller Speed (m/s)": 13.888889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Bremer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1344.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schmidtstra\u00dfe",
+            "L\u00e4nge (Meter)": 1074.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Wiesenhof",
+            "L\u00e4nge (Meter)": 1064.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.76
+        },
+        {
+            "Ort": "Untermainbr\u00fccke",
+            "L\u00e4nge (Meter)": 226.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Untermainkai",
+            "L\u00e4nge (Meter)": 442.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Messeparkhaus Rebstock",
+            "L\u00e4nge (Meter)": 1379.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "R\u00f6delheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 954.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Lyoner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 554.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 2534.0,
+            "Aktueller Speed (m/s)": 17.777779,
+            "Freier Fluss Speed (m/s)": 18.055555,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Schwarzwaldstra\u00dfe",
+            "L\u00e4nge (Meter)": 739.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Nibelungenallee",
+            "L\u00e4nge (Meter)": 9.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.86
+        },
+        {
+            "Ort": "Frankfurt am Main-Westhafen",
+            "L\u00e4nge (Meter)": 774.0,
+            "Aktueller Speed (m/s)": 33.333336,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Isenburger Schneise",
+            "L\u00e4nge (Meter)": 45.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Wilhelm-Eppstein-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 122.0,
+            "Aktueller Speed (m/s)": 16.666668,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Adickesallee",
+            "L\u00e4nge (Meter)": 788.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Hohen Weg",
+            "L\u00e4nge (Meter)": 109.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Schwanheimer Ufer",
+            "L\u00e4nge (Meter)": 23.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.83
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 1141.0,
+            "Aktueller Speed (m/s)": 15.277779,
+            "Freier Fluss Speed (m/s)": 17.222223,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Gleisdreieck",
+            "L\u00e4nge (Meter)": 68.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 3.7,
+            "Vertrauen": 0.72
+        },
+        {
+            "Ort": "Eichengrundschneise",
+            "L\u00e4nge (Meter)": 1064.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.86
+        },
+        {
+            "Ort": "Frankfurt am Main-Kennedyallee",
+            "L\u00e4nge (Meter)": 181.0,
+            "Aktueller Speed (m/s)": 13.333334,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Siemensstra\u00dfe",
+            "L\u00e4nge (Meter)": 3809.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Darmst\u00e4dter Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 159.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Frankfurter Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1800.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Anlagenring",
+            "L\u00e4nge (Meter)": 175.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 5.0,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Gie\u00dfener Stra\u00dfe",
+            "L\u00e4nge (Meter)": 813.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Otto-Fleck-Schneise",
+            "L\u00e4nge (Meter)": 201.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.77
+        },
+        {
+            "Ort": "Untermainbr\u00fccke",
+            "L\u00e4nge (Meter)": 196.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Untermainkai",
+            "L\u00e4nge (Meter)": 147.0,
+            "Aktueller Speed (m/s)": 2.2222223,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 1531.0,
+            "Aktueller Speed (m/s)": 30.0,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Honsellstra\u00dfe",
+            "L\u00e4nge (Meter)": 434.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 4.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eckenheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 817.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Marbachweg",
+            "L\u00e4nge (Meter)": 1175.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Ostbahnhof",
+            "L\u00e4nge (Meter)": 667.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Deutschordenstra\u00dfe",
+            "L\u00e4nge (Meter)": 297.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Fl\u00f6\u00dferbr\u00fccke",
+            "L\u00e4nge (Meter)": 223.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eschersheimer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1489.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Strassburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 36.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Junghofstra\u00dfe",
+            "L\u00e4nge (Meter)": 676.0,
+            "Aktueller Speed (m/s)": 2.5,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 7.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Habsburgerallee",
+            "L\u00e4nge (Meter)": 65.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Palmengarten",
+            "L\u00e4nge (Meter)": 933.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Taunusanlage",
+            "L\u00e4nge (Meter)": 699.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stadtwald",
+            "L\u00e4nge (Meter)": 1174.0,
+            "Aktueller Speed (m/s)": 28.88889,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Industriehof",
+            "L\u00e4nge (Meter)": 402.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Fl\u00f6sserbr\u00fccke",
+            "L\u00e4nge (Meter)": 452.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Darmst\u00e4dter Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1549.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rfelder Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 798.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Frankfurt am Main-Oberforsthaus",
+            "L\u00e4nge (Meter)": 933.0,
+            "Aktueller Speed (m/s)": 14.722222,
+            "Freier Fluss Speed (m/s)": 16.38889,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Mainzer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 200.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Oberforsthaus",
+            "L\u00e4nge (Meter)": 141.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Alte Br\u00fccke",
+            "L\u00e4nge (Meter)": 217.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Walter-Kolb-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 340.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eichengrundschneise",
+            "L\u00e4nge (Meter)": 593.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.71
+        },
+        {
+            "Ort": "Triftstra\u00dfe",
+            "L\u00e4nge (Meter)": 393.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Habsburger Allee",
+            "L\u00e4nge (Meter)": 757.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schweizer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 739.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 2079.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 11.944445,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Anlagenring",
+            "L\u00e4nge (Meter)": 94.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Waldparkplatz",
+            "L\u00e4nge (Meter)": 433.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 2.777778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.7
+        },
+        {
+            "Ort": "Frankfurt am Main-Miquelallee",
+            "L\u00e4nge (Meter)": 2989.0,
+            "Aktueller Speed (m/s)": 24.444445,
+            "Freier Fluss Speed (m/s)": 24.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schweizer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 608.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gie\u00dfener Stra\u00dfe",
+            "L\u00e4nge (Meter)": 648.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Alte Br\u00fccke",
+            "L\u00e4nge (Meter)": 48.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcrerstra\u00dfe",
+            "L\u00e4nge (Meter)": 599.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Platz der Republik",
+            "L\u00e4nge (Meter)": 803.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 3.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Untermainkai",
+            "L\u00e4nge (Meter)": 17.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.71
+        },
+        {
+            "Ort": "Darmst\u00e4dter Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 574.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Frankfurt am Main-S\u00fcd",
+            "L\u00e4nge (Meter)": 318.0,
+            "Aktueller Speed (m/s)": 14.722222,
+            "Freier Fluss Speed (m/s)": 14.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ludwig-Landmann-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 2013.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Frankfurt am Main-Miquelallee",
+            "L\u00e4nge (Meter)": 1469.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 12.222222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "S\u00fcdkreisel",
+            "L\u00e4nge (Meter)": 608.0,
+            "Aktueller Speed (m/s)": 14.444445,
+            "Freier Fluss Speed (m/s)": 15.555556,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Mainzer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 328.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Arena",
+            "L\u00e4nge (Meter)": 57.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.77
+        },
+        {
+            "Ort": "Schweizer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 295.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Erlenbruch-Dreieck",
+            "L\u00e4nge (Meter)": 767.0,
+            "Aktueller Speed (m/s)": 22.777779,
+            "Freier Fluss Speed (m/s)": 22.5,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Deutschordenstra\u00dfe",
+            "L\u00e4nge (Meter)": 593.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.77
+        },
+        {
+            "Ort": "Schwarzwaldstra\u00dfe",
+            "L\u00e4nge (Meter)": 299.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.84
+        },
+        {
+            "Ort": "Hanauer Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1377.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Alte Br\u00fccke",
+            "L\u00e4nge (Meter)": 224.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 3.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stadtwald",
+            "L\u00e4nge (Meter)": 800.0,
+            "Aktueller Speed (m/s)": 26.666668,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Niederrad",
+            "L\u00e4nge (Meter)": 792.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 15.0,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Rebstock",
+            "L\u00e4nge (Meter)": 401.0,
+            "Aktueller Speed (m/s)": 27.5,
+            "Freier Fluss Speed (m/s)": 28.611113,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Goldsteinstra\u00dfe",
+            "L\u00e4nge (Meter)": 226.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.75
+        },
+        {
+            "Ort": "Oskar von Miller Stra\u00dfe",
+            "L\u00e4nge (Meter)": 459.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kennedyallee",
+            "L\u00e4nge (Meter)": 113.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rfelder Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 487.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.81
+        },
+        {
+            "Ort": "Miquelallee",
+            "L\u00e4nge (Meter)": 43.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 2035.0,
+            "Aktueller Speed (m/s)": 15.555556,
+            "Freier Fluss Speed (m/s)": 17.222223,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Industriehof",
+            "L\u00e4nge (Meter)": 1081.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Langestra\u00dfe",
+            "L\u00e4nge (Meter)": 131.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Triftstra\u00dfe",
+            "L\u00e4nge (Meter)": 294.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.79
+        },
+        {
+            "Ort": "Walter-Kolb-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 749.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Ignaz-Bubis-Br\u00fccke",
+            "L\u00e4nge (Meter)": 219.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Neu-Isenburg",
+            "L\u00e4nge (Meter)": 2136.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Heinrich-Sellger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 703.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.78
+        },
+        {
+            "Ort": "Lyoner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 432.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Bockenheimer Warte",
+            "L\u00e4nge (Meter)": 741.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Schwarzwaldstra\u00dfe",
+            "L\u00e4nge (Meter)": 362.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Eschenheimer Tor",
+            "L\u00e4nge (Meter)": 1355.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schaumainkai",
+            "L\u00e4nge (Meter)": 82.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Oberforsthaus",
+            "L\u00e4nge (Meter)": 141.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Dreieichring",
+            "L\u00e4nge (Meter)": 3823.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Darmst\u00e4dter Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 640.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nordwestkreuz Frankfurt am Main",
+            "L\u00e4nge (Meter)": 1804.0,
+            "Aktueller Speed (m/s)": 30.277779,
+            "Freier Fluss Speed (m/s)": 28.611113,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Sch\u00f6ne Aussicht",
+            "L\u00e4nge (Meter)": 42.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 6.111111,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "M\u00f6rfelder Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 29.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Am Wiesenhof",
+            "L\u00e4nge (Meter)": 1440.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Frankfurt am Main-S\u00fcd",
+            "L\u00e4nge (Meter)": 1328.0,
+            "Aktueller Speed (m/s)": 27.5,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Haardtwaldstra\u00dfe",
+            "L\u00e4nge (Meter)": 697.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Wittelsbacher Allee",
+            "L\u00e4nge (Meter)": 50.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Frankfurt am Main-Isenburger Schneise",
+            "L\u00e4nge (Meter)": 266.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Parkpl\u00e4tze Zoo",
+            "L\u00e4nge (Meter)": 264.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.74
+        },
+        {
+            "Ort": "Frankfurt am Main-Miquelallee",
+            "L\u00e4nge (Meter)": 753.0,
+            "Aktueller Speed (m/s)": 14.444445,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Autobahnende A66/Miquelallee",
+            "L\u00e4nge (Meter)": 613.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Guiollstra\u00dfe",
+            "L\u00e4nge (Meter)": 175.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Gravenbruch",
+            "L\u00e4nge (Meter)": 1835.0,
+            "Aktueller Speed (m/s)": 15.833334,
+            "Freier Fluss Speed (m/s)": 17.777779,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ludwig-Erhard-Anlage",
+            "L\u00e4nge (Meter)": 1630.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ratsweg",
+            "L\u00e4nge (Meter)": 31.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.98
+        }
+    ]
+}
