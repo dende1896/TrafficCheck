@@ -1,0 +1,604 @@
+{
+    "Verkehrsfluss": [
+        {
+            "Ort": "Essen-Kray",
+            "L\u00e4nge (Meter)": 1238.0,
+            "Aktueller Speed (m/s)": 23.333334,
+            "Freier Fluss Speed (m/s)": 27.777779,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Zentrum",
+            "L\u00e4nge (Meter)": 56.0,
+            "Aktueller Speed (m/s)": 18.88889,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Kettwig",
+            "L\u00e4nge (Meter)": 3288.0,
+            "Aktueller Speed (m/s)": 29.166668,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Aktienstra\u00dfe",
+            "L\u00e4nge (Meter)": 5759.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Essen-\u00dcberruhr",
+            "L\u00e4nge (Meter)": 354.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Werdener Weg",
+            "L\u00e4nge (Meter)": 3141.0,
+            "Aktueller Speed (m/s)": 13.055556,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Heisingen",
+            "L\u00e4nge (Meter)": 452.0,
+            "Aktueller Speed (m/s)": 18.88889,
+            "Freier Fluss Speed (m/s)": 21.666668,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Baldeneysee",
+            "L\u00e4nge (Meter)": 2532.0,
+            "Aktueller Speed (m/s)": 14.166667,
+            "Freier Fluss Speed (m/s)": 14.444445,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Zentrum",
+            "L\u00e4nge (Meter)": 1397.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Unbekannt",
+            "L\u00e4nge (Meter)": 339.0,
+            "Aktueller Speed (m/s)": 2.2222223,
+            "Freier Fluss Speed (m/s)": 16.11111,
+            "Stau-Faktor": 7.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Bergerhausen",
+            "L\u00e4nge (Meter)": 4584.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Kettwig",
+            "L\u00e4nge (Meter)": 2362.0,
+            "Aktueller Speed (m/s)": 29.166668,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Haarzopf",
+            "L\u00e4nge (Meter)": 2152.0,
+            "Aktueller Speed (m/s)": 25.555555,
+            "Freier Fluss Speed (m/s)": 26.666668,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Huttrop",
+            "L\u00e4nge (Meter)": 793.0,
+            "Aktueller Speed (m/s)": 16.666668,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-R\u00fcttenscheid",
+            "L\u00e4nge (Meter)": 1258.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Meisenburgstra\u00dfe",
+            "L\u00e4nge (Meter)": 1279.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Essen-Kray",
+            "L\u00e4nge (Meter)": 1754.0,
+            "Aktueller Speed (m/s)": 26.944445,
+            "Freier Fluss Speed (m/s)": 27.777779,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Huttrop",
+            "L\u00e4nge (Meter)": 2200.0,
+            "Aktueller Speed (m/s)": 20.833334,
+            "Freier Fluss Speed (m/s)": 23.611113,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Haarzopf",
+            "L\u00e4nge (Meter)": 1968.0,
+            "Aktueller Speed (m/s)": 30.277779,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Altendorfer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1381.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Holsterhausen",
+            "L\u00e4nge (Meter)": 1261.0,
+            "Aktueller Speed (m/s)": 21.666668,
+            "Freier Fluss Speed (m/s)": 25.277779,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Ost",
+            "L\u00e4nge (Meter)": 592.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 6.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ruhrschnellwegtunnel",
+            "L\u00e4nge (Meter)": 814.0,
+            "Aktueller Speed (m/s)": 26.666668,
+            "Freier Fluss Speed (m/s)": 22.777779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-R\u00fcttenscheid",
+            "L\u00e4nge (Meter)": 1930.0,
+            "Aktueller Speed (m/s)": 20.0,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Unbekannt",
+            "L\u00e4nge (Meter)": 25.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 8.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Frillendorf",
+            "L\u00e4nge (Meter)": 1778.0,
+            "Aktueller Speed (m/s)": 20.0,
+            "Freier Fluss Speed (m/s)": 24.444445,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Unbekannt",
+            "L\u00e4nge (Meter)": 85.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 8.2,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "A40",
+            "L\u00e4nge (Meter)": 3732.0,
+            "Aktueller Speed (m/s)": 13.055556,
+            "Freier Fluss Speed (m/s)": 11.944445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fclheim-Heimaterde",
+            "L\u00e4nge (Meter)": 1095.0,
+            "Aktueller Speed (m/s)": 26.38889,
+            "Freier Fluss Speed (m/s)": 28.055557,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fclheim-Hei\u00dfen",
+            "L\u00e4nge (Meter)": 1644.0,
+            "Aktueller Speed (m/s)": 27.222223,
+            "Freier Fluss Speed (m/s)": 27.777779,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-S\u00fcd",
+            "L\u00e4nge (Meter)": 1228.0,
+            "Aktueller Speed (m/s)": 18.333334,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Grillostra\u00dfe",
+            "L\u00e4nge (Meter)": 1404.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "H\u00f6velstra\u00dfe",
+            "L\u00e4nge (Meter)": 1620.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fclheim-Hei\u00dfen",
+            "L\u00e4nge (Meter)": 2409.0,
+            "Aktueller Speed (m/s)": 22.5,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Holsterhausen",
+            "L\u00e4nge (Meter)": 1388.0,
+            "Aktueller Speed (m/s)": 23.333334,
+            "Freier Fluss Speed (m/s)": 25.833334,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fclheim an der Ruhr-Winkhausen",
+            "L\u00e4nge (Meter)": 2020.0,
+            "Aktueller Speed (m/s)": 25.555555,
+            "Freier Fluss Speed (m/s)": 26.944445,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Ost",
+            "L\u00e4nge (Meter)": 676.0,
+            "Aktueller Speed (m/s)": 17.5,
+            "Freier Fluss Speed (m/s)": 18.055555,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Meisenburgstra\u00dfe",
+            "L\u00e4nge (Meter)": 2405.0,
+            "Aktueller Speed (m/s)": 13.333334,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Zentrum",
+            "L\u00e4nge (Meter)": 2811.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Kupferdreh",
+            "L\u00e4nge (Meter)": 2035.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Zentrum",
+            "L\u00e4nge (Meter)": 1606.0,
+            "Aktueller Speed (m/s)": 20.555555,
+            "Freier Fluss Speed (m/s)": 23.333334,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Heisingen",
+            "L\u00e4nge (Meter)": 4898.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 14.166667,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fclheim-Heimaterde",
+            "L\u00e4nge (Meter)": 1145.0,
+            "Aktueller Speed (m/s)": 25.555555,
+            "Freier Fluss Speed (m/s)": 26.666668,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Bergerhausen",
+            "L\u00e4nge (Meter)": 1727.0,
+            "Aktueller Speed (m/s)": 20.833334,
+            "Freier Fluss Speed (m/s)": 20.555555,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hans-B\u00f6ckler-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 84.0,
+            "Aktueller Speed (m/s)": 3.0555556,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Hans-B\u00f6ckler-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 4635.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Grillostra\u00dfe",
+            "L\u00e4nge (Meter)": 1663.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Bergerhausen",
+            "L\u00e4nge (Meter)": 748.0,
+            "Aktueller Speed (m/s)": 18.333334,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "An der Rennbahn",
+            "L\u00e4nge (Meter)": 10827.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Ost",
+            "L\u00e4nge (Meter)": 830.0,
+            "Aktueller Speed (m/s)": 20.555555,
+            "Freier Fluss Speed (m/s)": 25.277779,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Huttrop",
+            "L\u00e4nge (Meter)": 748.0,
+            "Aktueller Speed (m/s)": 17.222223,
+            "Freier Fluss Speed (m/s)": 17.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Unbekannt",
+            "L\u00e4nge (Meter)": 71.0,
+            "Aktueller Speed (m/s)": 2.2222223,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 9.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Ost",
+            "L\u00e4nge (Meter)": 1719.0,
+            "Aktueller Speed (m/s)": 21.111113,
+            "Freier Fluss Speed (m/s)": 23.88889,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "A40",
+            "L\u00e4nge (Meter)": 773.0,
+            "Aktueller Speed (m/s)": 17.222223,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Essen-S\u00fcd",
+            "L\u00e4nge (Meter)": 1677.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Frillendorf",
+            "L\u00e4nge (Meter)": 864.0,
+            "Aktueller Speed (m/s)": 21.38889,
+            "Freier Fluss Speed (m/s)": 25.277779,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Huttrop",
+            "L\u00e4nge (Meter)": 25.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Konrad-Adenauer-Allee",
+            "L\u00e4nge (Meter)": 5784.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Aktienstra\u00dfe",
+            "L\u00e4nge (Meter)": 4672.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Essen-R\u00fcttenscheid",
+            "L\u00e4nge (Meter)": 2803.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-\u00dcberruhr",
+            "L\u00e4nge (Meter)": 1863.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 21.944445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Bergerhausen",
+            "L\u00e4nge (Meter)": 95.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ruhrschnellwegtunnel",
+            "L\u00e4nge (Meter)": 191.0,
+            "Aktueller Speed (m/s)": 19.722223,
+            "Freier Fluss Speed (m/s)": 22.5,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Huttrop",
+            "L\u00e4nge (Meter)": 10957.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Heisingen",
+            "L\u00e4nge (Meter)": 653.0,
+            "Aktueller Speed (m/s)": 24.166668,
+            "Freier Fluss Speed (m/s)": 23.611113,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Frohnhausen",
+            "L\u00e4nge (Meter)": 1168.0,
+            "Aktueller Speed (m/s)": 25.555555,
+            "Freier Fluss Speed (m/s)": 25.555555,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Heisingen",
+            "L\u00e4nge (Meter)": 221.0,
+            "Aktueller Speed (m/s)": 23.333334,
+            "Freier Fluss Speed (m/s)": 24.444445,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Theodor-Heuss-Br\u00fccke",
+            "L\u00e4nge (Meter)": 476.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Frohnhausen",
+            "L\u00e4nge (Meter)": 1324.0,
+            "Aktueller Speed (m/s)": 23.88889,
+            "Freier Fluss Speed (m/s)": 26.38889,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Theodor-Heuss-Br\u00fccke",
+            "L\u00e4nge (Meter)": 355.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 21.944445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-R\u00fcttenscheid",
+            "L\u00e4nge (Meter)": 2373.0,
+            "Aktueller Speed (m/s)": 22.5,
+            "Freier Fluss Speed (m/s)": 21.38889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gelsenkirchen-S\u00fcd",
+            "L\u00e4nge (Meter)": 1858.0,
+            "Aktueller Speed (m/s)": 26.666668,
+            "Freier Fluss Speed (m/s)": 28.611113,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Essen-Huttrop",
+            "L\u00e4nge (Meter)": 1364.0,
+            "Aktueller Speed (m/s)": 21.666668,
+            "Freier Fluss Speed (m/s)": 25.277779,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ickten",
+            "L\u00e4nge (Meter)": 3018.0,
+            "Aktueller Speed (m/s)": 31.38889,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Altendorfer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1370.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        }
+    ]
+}
