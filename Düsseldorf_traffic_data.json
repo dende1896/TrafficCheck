@@ -1,0 +1,3908 @@
+{
+    "Verkehrsfluss": [
+        {
+            "Ort": "Am Gro\u00dfen Dern",
+            "L\u00e4nge (Meter)": 24.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.81
+        },
+        {
+            "Ort": "Torfbruchstra\u00dfe",
+            "L\u00e4nge (Meter)": 44.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "D\u00fcsseldorf-International",
+            "L\u00e4nge (Meter)": 137.0,
+            "Aktueller Speed (m/s)": 18.333334,
+            "Freier Fluss Speed (m/s)": 16.11111,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Ei",
+            "L\u00e4nge (Meter)": 1618.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Klever Stra\u00dfe",
+            "L\u00e4nge (Meter)": 432.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Vautierstra\u00dfe",
+            "L\u00e4nge (Meter)": 439.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Harffstra\u00dfe",
+            "L\u00e4nge (Meter)": 1577.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Oststra\u00dfe",
+            "L\u00e4nge (Meter)": 362.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Maximilian-Weyhe-Allee",
+            "L\u00e4nge (Meter)": 67.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Glash\u00fcttenstra\u00dfe",
+            "L\u00e4nge (Meter)": 1506.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Torfbruchstra\u00dfe",
+            "L\u00e4nge (Meter)": 72.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Auf m Hennekamp",
+            "L\u00e4nge (Meter)": 830.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stockumer Kirchstra\u00dfe",
+            "L\u00e4nge (Meter)": 607.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Corneliusstra\u00dfe",
+            "L\u00e4nge (Meter)": 47.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Vautierstra\u00dfe",
+            "L\u00e4nge (Meter)": 971.0,
+            "Aktueller Speed (m/s)": 13.055556,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "H\u00fcttenstra\u00dfe",
+            "L\u00e4nge (Meter)": 202.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bonner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1728.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.78
+        },
+        {
+            "Ort": "Homberger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 15.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Maximilian-Weyhe-Allee",
+            "L\u00e4nge (Meter)": 853.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 5.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nordfriedhof",
+            "L\u00e4nge (Meter)": 179.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Harffstra\u00dfe",
+            "L\u00e4nge (Meter)": 521.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Herzogstra\u00dfe",
+            "L\u00e4nge (Meter)": 542.0,
+            "Aktueller Speed (m/s)": 1.6666667,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 8.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Simrockstra\u00dfe",
+            "L\u00e4nge (Meter)": 24.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Wersten",
+            "L\u00e4nge (Meter)": 725.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Cecilienallee",
+            "L\u00e4nge (Meter)": 251.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Flughafen",
+            "L\u00e4nge (Meter)": 38.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Maximilian-Weyhe-Allee",
+            "L\u00e4nge (Meter)": 417.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rheinkniebr\u00fccke",
+            "L\u00e4nge (Meter)": 1404.0,
+            "Aktueller Speed (m/s)": 20.277779,
+            "Freier Fluss Speed (m/s)": 20.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Brehmplatz",
+            "L\u00e4nge (Meter)": 50.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Mecumstra\u00dfe",
+            "L\u00e4nge (Meter)": 611.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Staufenplatz",
+            "L\u00e4nge (Meter)": 548.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum/Freiligrathplatz",
+            "L\u00e4nge (Meter)": 38.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Ickerswarder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1930.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "M\u00fcnsterstra\u00dfe",
+            "L\u00e4nge (Meter)": 54.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Nordfriedhof",
+            "L\u00e4nge (Meter)": 967.0,
+            "Aktueller Speed (m/s)": 15.277779,
+            "Freier Fluss Speed (m/s)": 16.38889,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Neuss-Uedesheim",
+            "L\u00e4nge (Meter)": 2496.0,
+            "Aktueller Speed (m/s)": 27.222223,
+            "Freier Fluss Speed (m/s)": 28.333334,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Mecumstra\u00dfe",
+            "L\u00e4nge (Meter)": 1219.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 11.944445,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Bilk",
+            "L\u00e4nge (Meter)": 1196.0,
+            "Aktueller Speed (m/s)": 27.5,
+            "Freier Fluss Speed (m/s)": 23.611113,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reichswaldallee",
+            "L\u00e4nge (Meter)": 938.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kaiserswerther Stra\u00dfe",
+            "L\u00e4nge (Meter)": 644.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nordfriedhof",
+            "L\u00e4nge (Meter)": 1361.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Oberbilker Allee",
+            "L\u00e4nge (Meter)": 788.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nordfriedhof",
+            "L\u00e4nge (Meter)": 1078.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 12.5,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Theodorstra\u00dfe",
+            "L\u00e4nge (Meter)": 1470.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Kalkumer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1111.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Turnisch",
+            "L\u00e4nge (Meter)": 1740.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "V\u00f6lklinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1104.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Oberbilker Allee",
+            "L\u00e4nge (Meter)": 955.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Wersten",
+            "L\u00e4nge (Meter)": 1020.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 14.166667,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Gladbacher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 215.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 15.0,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reichswaldallee",
+            "L\u00e4nge (Meter)": 947.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Luegallee",
+            "L\u00e4nge (Meter)": 1052.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reichswaldallee",
+            "L\u00e4nge (Meter)": 3534.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum",
+            "L\u00e4nge (Meter)": 96.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Prinz-Georg-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 880.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Theodor-Heuss-Br\u00fccke",
+            "L\u00e4nge (Meter)": 1898.0,
+            "Aktueller Speed (m/s)": 20.555555,
+            "Freier Fluss Speed (m/s)": 20.277779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ulmenstra\u00dfe",
+            "L\u00e4nge (Meter)": 245.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Christophstra\u00dfe",
+            "L\u00e4nge (Meter)": 1327.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 12.222222,
+            "Stau-Faktor": 3.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Heinrich-Heine-Allee",
+            "L\u00e4nge (Meter)": 309.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Corneliusstra\u00dfe",
+            "L\u00e4nge (Meter)": 950.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Fleher Br\u00fccke",
+            "L\u00e4nge (Meter)": 537.0,
+            "Aktueller Speed (m/s)": 20.833334,
+            "Freier Fluss Speed (m/s)": 19.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Bilk",
+            "L\u00e4nge (Meter)": 2015.0,
+            "Aktueller Speed (m/s)": 26.666668,
+            "Freier Fluss Speed (m/s)": 26.666668,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reisholzer Bahnstra\u00dfe",
+            "L\u00e4nge (Meter)": 1765.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.77
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Holthausen",
+            "L\u00e4nge (Meter)": 2203.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "K\u00f6lner Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1563.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Elisabethstra\u00dfe",
+            "L\u00e4nge (Meter)": 67.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 4.7222223,
+            "Stau-Faktor": 3.8,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Karlsruher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 988.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ludenberger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1581.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Oberbilker Allee",
+            "L\u00e4nge (Meter)": 1218.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Fischerstra\u00dfe",
+            "L\u00e4nge (Meter)": 193.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reichsstra\u00dfe",
+            "L\u00e4nge (Meter)": 67.0,
+            "Aktueller Speed (m/s)": 3.3333335,
+            "Freier Fluss Speed (m/s)": 4.7222223,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nord-S\u00fcd-Tunnel",
+            "L\u00e4nge (Meter)": 200.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gr\u00e4ulinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1851.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Ulmenstra\u00dfe",
+            "L\u00e4nge (Meter)": 192.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.79
+        },
+        {
+            "Ort": "Rheinufertunnel",
+            "L\u00e4nge (Meter)": 1316.0,
+            "Aktueller Speed (m/s)": 15.833334,
+            "Freier Fluss Speed (m/s)": 16.38889,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Liliencronstra\u00dfe",
+            "L\u00e4nge (Meter)": 895.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Ro\u00dfstra\u00dfe",
+            "L\u00e4nge (Meter)": 567.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kaiserswerther Stra\u00dfe",
+            "L\u00e4nge (Meter)": 271.0,
+            "Aktueller Speed (m/s)": 3.0555556,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Homberger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 21.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Rethelstra\u00dfe",
+            "L\u00e4nge (Meter)": 897.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Kasernenstra\u00dfe",
+            "L\u00e4nge (Meter)": 483.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Rath (\u00dcbergang A52/B1)",
+            "L\u00e4nge (Meter)": 66.0,
+            "Aktueller Speed (m/s)": 27.777779,
+            "Freier Fluss Speed (m/s)": 25.277779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ratingen",
+            "L\u00e4nge (Meter)": 3505.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Flughafen",
+            "L\u00e4nge (Meter)": 457.0,
+            "Aktueller Speed (m/s)": 17.222223,
+            "Freier Fluss Speed (m/s)": 18.333334,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Venloer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 318.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Weberstra\u00dfe",
+            "L\u00e4nge (Meter)": 183.0,
+            "Aktueller Speed (m/s)": 2.2222223,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Fischerstra\u00dfe",
+            "L\u00e4nge (Meter)": 75.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 5.277778,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Windscheidstra\u00dfe",
+            "L\u00e4nge (Meter)": 445.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Johannstra\u00dfe",
+            "L\u00e4nge (Meter)": 1200.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "J\u00fclicher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 162.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 5.555556,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Dreherstra\u00dfe",
+            "L\u00e4nge (Meter)": 1116.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "K\u00f6lner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 655.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Niederrheinstra\u00dfe",
+            "L\u00e4nge (Meter)": 226.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Thewissenweg",
+            "L\u00e4nge (Meter)": 1023.0,
+            "Aktueller Speed (m/s)": 21.666668,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ulmenstra\u00dfe",
+            "L\u00e4nge (Meter)": 1291.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Staufenplatz",
+            "L\u00e4nge (Meter)": 414.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "J\u00fclicher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 369.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Freiligrathplatz",
+            "L\u00e4nge (Meter)": 684.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hans-Sachs-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 244.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Adlerstra\u00dfe",
+            "L\u00e4nge (Meter)": 345.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Luegallee",
+            "L\u00e4nge (Meter)": 783.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "H\u00f6herweg",
+            "L\u00e4nge (Meter)": 1051.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "S\u00fcd-West-Tunnel",
+            "L\u00e4nge (Meter)": 300.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ulmenstra\u00dfe",
+            "L\u00e4nge (Meter)": 1251.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Kruppstra\u00dfe",
+            "L\u00e4nge (Meter)": 1068.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Ei",
+            "L\u00e4nge (Meter)": 28.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Weberstra\u00dfe",
+            "L\u00e4nge (Meter)": 240.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "J\u00e4gerhofstra\u00dfe",
+            "L\u00e4nge (Meter)": 174.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Oberkasseler Br\u00fccke",
+            "L\u00e4nge (Meter)": 1178.0,
+            "Aktueller Speed (m/s)": 13.055556,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Uerdinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 899.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Ratinger Tor",
+            "L\u00e4nge (Meter)": 256.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Eulerstra\u00dfe",
+            "L\u00e4nge (Meter)": 208.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Oststra\u00dfe",
+            "L\u00e4nge (Meter)": 325.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Elisabethstra\u00dfe",
+            "L\u00e4nge (Meter)": 446.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Markenstra\u00dfe",
+            "L\u00e4nge (Meter)": 251.0,
+            "Aktueller Speed (m/s)": 2.2222223,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Worringer Platz",
+            "L\u00e4nge (Meter)": 1017.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Sankt-Franziskus-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 468.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Rather Kreuzweg",
+            "L\u00e4nge (Meter)": 78.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rethelstra\u00dfe",
+            "L\u00e4nge (Meter)": 809.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Karlstra\u00dfe",
+            "L\u00e4nge (Meter)": 53.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Torfbruchstra\u00dfe",
+            "L\u00e4nge (Meter)": 3041.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Oststra\u00dfe",
+            "L\u00e4nge (Meter)": 526.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Elisabethstra\u00dfe",
+            "L\u00e4nge (Meter)": 894.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Turnisch",
+            "L\u00e4nge (Meter)": 986.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Universit\u00e4tstunnel",
+            "L\u00e4nge (Meter)": 635.0,
+            "Aktueller Speed (m/s)": 25.833334,
+            "Freier Fluss Speed (m/s)": 23.88889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Graf-Adolf-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 164.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Wehrhahn",
+            "L\u00e4nge (Meter)": 550.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Parsevalstra\u00dfe",
+            "L\u00e4nge (Meter)": 334.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kalkumer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 232.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Liliencronstra\u00dfe",
+            "L\u00e4nge (Meter)": 1179.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedrichstra\u00dfe",
+            "L\u00e4nge (Meter)": 380.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Eller",
+            "L\u00e4nge (Meter)": 1385.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Haroldstra\u00dfe",
+            "L\u00e4nge (Meter)": 791.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 5.1,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Kruppstra\u00dfe",
+            "L\u00e4nge (Meter)": 224.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kieshecker Weg",
+            "L\u00e4nge (Meter)": 468.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "H\u00f6herweg",
+            "L\u00e4nge (Meter)": 250.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Cecilienallee",
+            "L\u00e4nge (Meter)": 61.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kavalleriestra\u00dfe",
+            "L\u00e4nge (Meter)": 14.0,
+            "Aktueller Speed (m/s)": 15.833334,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kopernikusstra\u00dfe",
+            "L\u00e4nge (Meter)": 18.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Herzogstra\u00dfe",
+            "L\u00e4nge (Meter)": 243.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Graf-Adolf-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 176.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wahlerstra\u00dfe",
+            "L\u00e4nge (Meter)": 1088.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Weg",
+            "L\u00e4nge (Meter)": 1119.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.8
+        },
+        {
+            "Ort": "Kettwiger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 852.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kruppstra\u00dfe",
+            "L\u00e4nge (Meter)": 14.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nordfriedhof",
+            "L\u00e4nge (Meter)": 908.0,
+            "Aktueller Speed (m/s)": 16.666668,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Prinz-Georg-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 959.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "V\u00f6lklinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 47.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum",
+            "L\u00e4nge (Meter)": 1969.0,
+            "Aktueller Speed (m/s)": 26.944445,
+            "Freier Fluss Speed (m/s)": 27.222223,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Fischerstra\u00dfe",
+            "L\u00e4nge (Meter)": 596.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kieshecker Weg",
+            "L\u00e4nge (Meter)": 50.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Moltkestra\u00dfe",
+            "L\u00e4nge (Meter)": 346.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rheinkniebr\u00fccke",
+            "L\u00e4nge (Meter)": 2962.0,
+            "Aktueller Speed (m/s)": 20.555555,
+            "Freier Fluss Speed (m/s)": 21.111113,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Graf-Adolf-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 384.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "V\u00f6lklinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 471.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nordfriedhof",
+            "L\u00e4nge (Meter)": 97.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Berliner Allee",
+            "L\u00e4nge (Meter)": 320.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Cecilienallee",
+            "L\u00e4nge (Meter)": 210.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Moltkestra\u00dfe",
+            "L\u00e4nge (Meter)": 831.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Berliner Allee",
+            "L\u00e4nge (Meter)": 329.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nordfriedhof",
+            "L\u00e4nge (Meter)": 1461.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 13.611112,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reichsstra\u00dfe",
+            "L\u00e4nge (Meter)": 392.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Unbekannt",
+            "L\u00e4nge (Meter)": 236.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 8.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Eller",
+            "L\u00e4nge (Meter)": 1571.0,
+            "Aktueller Speed (m/s)": 23.055555,
+            "Freier Fluss Speed (m/s)": 28.88889,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Homberger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 973.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gr\u00e4ulinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 2691.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Elberfelder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 21.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.72
+        },
+        {
+            "Ort": "Plockstra\u00dfe",
+            "L\u00e4nge (Meter)": 98.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kettwiger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 868.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Flughafen",
+            "L\u00e4nge (Meter)": 816.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Morper Stra\u00dfe",
+            "L\u00e4nge (Meter)": 385.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Lindemannstra\u00dfe",
+            "L\u00e4nge (Meter)": 200.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Thewissenweg",
+            "L\u00e4nge (Meter)": 755.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Immermannstra\u00dfe",
+            "L\u00e4nge (Meter)": 540.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bilker Allee",
+            "L\u00e4nge (Meter)": 777.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Torfbruchstra\u00dfe",
+            "L\u00e4nge (Meter)": 1160.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Klever Stra\u00dfe",
+            "L\u00e4nge (Meter)": 360.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reichswaldallee",
+            "L\u00e4nge (Meter)": 1619.0,
+            "Aktueller Speed (m/s)": 21.38889,
+            "Freier Fluss Speed (m/s)": 21.38889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Oststra\u00dfe",
+            "L\u00e4nge (Meter)": 312.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Gro\u00dfen Dern",
+            "L\u00e4nge (Meter)": 57.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Nach den Mauresk\u00f6then",
+            "L\u00e4nge (Meter)": 385.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum",
+            "L\u00e4nge (Meter)": 93.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Corneliusstra\u00dfe",
+            "L\u00e4nge (Meter)": 253.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Klever Stra\u00dfe",
+            "L\u00e4nge (Meter)": 776.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Ei",
+            "L\u00e4nge (Meter)": 850.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Venloer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 827.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bachstra\u00dfe",
+            "L\u00e4nge (Meter)": 193.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 6.111111,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Friedrichstra\u00dfe",
+            "L\u00e4nge (Meter)": 104.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reichswaldallee",
+            "L\u00e4nge (Meter)": 624.0,
+            "Aktueller Speed (m/s)": 16.666668,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Wersten",
+            "L\u00e4nge (Meter)": 683.0,
+            "Aktueller Speed (m/s)": 17.777779,
+            "Freier Fluss Speed (m/s)": 18.61111,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Wersten",
+            "L\u00e4nge (Meter)": 1433.0,
+            "Aktueller Speed (m/s)": 25.833334,
+            "Freier Fluss Speed (m/s)": 23.88889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Auf m Hennekamp",
+            "L\u00e4nge (Meter)": 49.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bilker Allee",
+            "L\u00e4nge (Meter)": 523.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Karlsruher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1569.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 14.722222,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Brehmstra\u00dfe",
+            "L\u00e4nge (Meter)": 49.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "M\u00fcnsterstra\u00dfe",
+            "L\u00e4nge (Meter)": 469.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "H\u00fcttenstra\u00dfe",
+            "L\u00e4nge (Meter)": 157.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nord-West-Tunnel",
+            "L\u00e4nge (Meter)": 327.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ronsdorfer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1572.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Jacobistra\u00dfe",
+            "L\u00e4nge (Meter)": 315.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 6.111111,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "V\u00f6lklinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 818.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "V\u00f6lklinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 21.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.78
+        },
+        {
+            "Ort": "Volmerswerther Stra\u00dfe",
+            "L\u00e4nge (Meter)": 688.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kaiserswerth",
+            "L\u00e4nge (Meter)": 1313.0,
+            "Aktueller Speed (m/s)": 17.777779,
+            "Freier Fluss Speed (m/s)": 20.555555,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fcnsterstra\u00dfe",
+            "L\u00e4nge (Meter)": 1187.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Grafenberger Allee",
+            "L\u00e4nge (Meter)": 3012.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Henkelstra\u00dfe",
+            "L\u00e4nge (Meter)": 1713.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Zentrum",
+            "L\u00e4nge (Meter)": 1050.0,
+            "Aktueller Speed (m/s)": 12.5,
+            "Freier Fluss Speed (m/s)": 16.38889,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Nord",
+            "L\u00e4nge (Meter)": 3746.0,
+            "Aktueller Speed (m/s)": 28.88889,
+            "Freier Fluss Speed (m/s)": 26.111113,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Seestern",
+            "L\u00e4nge (Meter)": 624.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 21.944445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Nord",
+            "L\u00e4nge (Meter)": 3241.0,
+            "Aktueller Speed (m/s)": 23.333334,
+            "Freier Fluss Speed (m/s)": 23.055555,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Niederrheinstra\u00dfe",
+            "L\u00e4nge (Meter)": 177.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Grafenberger Allee",
+            "L\u00e4nge (Meter)": 37.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.7
+        },
+        {
+            "Ort": "Reisholzer Bahnstra\u00dfe",
+            "L\u00e4nge (Meter)": 924.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.77
+        },
+        {
+            "Ort": "Ulmenstra\u00dfe",
+            "L\u00e4nge (Meter)": 245.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am H\u00fclserhof",
+            "L\u00e4nge (Meter)": 1109.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Flughafen",
+            "L\u00e4nge (Meter)": 1019.0,
+            "Aktueller Speed (m/s)": 22.5,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Ei",
+            "L\u00e4nge (Meter)": 1384.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum",
+            "L\u00e4nge (Meter)": 2141.0,
+            "Aktueller Speed (m/s)": 20.833334,
+            "Freier Fluss Speed (m/s)": 21.111113,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Erkrather Stra\u00dfe",
+            "L\u00e4nge (Meter)": 566.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Elisabethstra\u00dfe",
+            "L\u00e4nge (Meter)": 139.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Klever Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1291.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Oberkasseler Br\u00fccke",
+            "L\u00e4nge (Meter)": 1743.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Immermannstra\u00dfe",
+            "L\u00e4nge (Meter)": 632.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ratinger Tor",
+            "L\u00e4nge (Meter)": 439.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kaiserswerther Stra\u00dfe",
+            "L\u00e4nge (Meter)": 197.0,
+            "Aktueller Speed (m/s)": 1.9444445,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ronsdorfer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 873.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schadowstr.",
+            "L\u00e4nge (Meter)": 294.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "K\u00fcrtenstra\u00dfe",
+            "L\u00e4nge (Meter)": 331.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rethelstra\u00dfe",
+            "L\u00e4nge (Meter)": 465.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Mecumstra\u00dfe",
+            "L\u00e4nge (Meter)": 1150.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Herzogstra\u00dfe",
+            "L\u00e4nge (Meter)": 509.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "V\u00f6lklinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1156.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Ickerswarder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1036.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Eller",
+            "L\u00e4nge (Meter)": 621.0,
+            "Aktueller Speed (m/s)": 33.333336,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stoffeler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1676.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Columbusstra\u00dfe",
+            "L\u00e4nge (Meter)": 803.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Wahlerstra\u00dfe",
+            "L\u00e4nge (Meter)": 878.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.84
+        },
+        {
+            "Ort": "Am Gro\u00dfen Dern",
+            "L\u00e4nge (Meter)": 662.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.81
+        },
+        {
+            "Ort": "Freiligrathplatz",
+            "L\u00e4nge (Meter)": 710.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Elberfelder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 823.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Merowingerstra\u00dfe",
+            "L\u00e4nge (Meter)": 117.0,
+            "Aktueller Speed (m/s)": 3.3333335,
+            "Freier Fluss Speed (m/s)": 5.0,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "S\u00fcd-Nord-Tunnel",
+            "L\u00e4nge (Meter)": 104.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Klever Stra\u00dfe",
+            "L\u00e4nge (Meter)": 267.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bilker Allee",
+            "L\u00e4nge (Meter)": 113.0,
+            "Aktueller Speed (m/s)": 1.9444445,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "F\u00e4hrstra\u00dfe",
+            "L\u00e4nge (Meter)": 693.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rather Kreuzweg",
+            "L\u00e4nge (Meter)": 1433.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Flughafen",
+            "L\u00e4nge (Meter)": 657.0,
+            "Aktueller Speed (m/s)": 18.333334,
+            "Freier Fluss Speed (m/s)": 17.777779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Uerdinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1545.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "P\u00f6hlenweg",
+            "L\u00e4nge (Meter)": 442.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gladbacher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 17.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Oberbilker Allee",
+            "L\u00e4nge (Meter)": 41.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ulmenstra\u00dfe",
+            "L\u00e4nge (Meter)": 1291.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-International",
+            "L\u00e4nge (Meter)": 916.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Universit\u00e4tstunnel",
+            "L\u00e4nge (Meter)": 881.0,
+            "Aktueller Speed (m/s)": 20.0,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ratingen-Schwarzbach",
+            "L\u00e4nge (Meter)": 2578.0,
+            "Aktueller Speed (m/s)": 27.5,
+            "Freier Fluss Speed (m/s)": 27.777779,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kruppstra\u00dfe",
+            "L\u00e4nge (Meter)": 662.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 5.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Schadowstr.",
+            "L\u00e4nge (Meter)": 197.0,
+            "Aktueller Speed (m/s)": 2.2222223,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Corneliusstra\u00dfe",
+            "L\u00e4nge (Meter)": 727.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Oberkassel",
+            "L\u00e4nge (Meter)": 1527.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Brehmstra\u00dfe",
+            "L\u00e4nge (Meter)": 1091.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Rath",
+            "L\u00e4nge (Meter)": 1621.0,
+            "Aktueller Speed (m/s)": 30.0,
+            "Freier Fluss Speed (m/s)": 27.5,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kruppstra\u00dfe",
+            "L\u00e4nge (Meter)": 52.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Adlerstra\u00dfe",
+            "L\u00e4nge (Meter)": 691.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Windscheidstra\u00dfe",
+            "L\u00e4nge (Meter)": 818.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Prinz-Georg-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 544.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "F\u00e4hrstra\u00dfe",
+            "L\u00e4nge (Meter)": 288.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 13.333334,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Vogelsanger Weg",
+            "L\u00e4nge (Meter)": 424.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 14.722222,
+            "Stau-Faktor": 5.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "V\u00f6lklinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 707.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ro\u00dfstra\u00dfe",
+            "L\u00e4nge (Meter)": 174.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fcnsterstra\u00dfe",
+            "L\u00e4nge (Meter)": 231.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedrichstra\u00dfe",
+            "L\u00e4nge (Meter)": 102.0,
+            "Aktueller Speed (m/s)": 2.777778,
+            "Freier Fluss Speed (m/s)": 4.4444447,
+            "Stau-Faktor": 3.5,
+            "Vertrauen": 0.7
+        },
+        {
+            "Ort": "Posener Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1247.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "S\u00fcd-Nord-Tunnel",
+            "L\u00e4nge (Meter)": 176.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Flughafen",
+            "L\u00e4nge (Meter)": 2509.0,
+            "Aktueller Speed (m/s)": 28.611113,
+            "Freier Fluss Speed (m/s)": 26.38889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Ei",
+            "L\u00e4nge (Meter)": 1661.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rotterdamer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1148.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Immermannstra\u00dfe",
+            "L\u00e4nge (Meter)": 126.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Maximilian-Weyhe-Allee",
+            "L\u00e4nge (Meter)": 313.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Oberbilker Allee",
+            "L\u00e4nge (Meter)": 251.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Merowingerstra\u00dfe",
+            "L\u00e4nge (Meter)": 581.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "J\u00fclicher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 230.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Rather Kreuzweg",
+            "L\u00e4nge (Meter)": 1515.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Ei",
+            "L\u00e4nge (Meter)": 1505.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kaiserstra\u00dfe",
+            "L\u00e4nge (Meter)": 276.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kruppstra\u00dfe",
+            "L\u00e4nge (Meter)": 42.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rather Kreuzweg",
+            "L\u00e4nge (Meter)": 62.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 5.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.78
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Flughafen",
+            "L\u00e4nge (Meter)": 516.0,
+            "Aktueller Speed (m/s)": 24.166668,
+            "Freier Fluss Speed (m/s)": 23.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum/Freiligrathplatz",
+            "L\u00e4nge (Meter)": 142.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum",
+            "L\u00e4nge (Meter)": 1468.0,
+            "Aktueller Speed (m/s)": 26.38889,
+            "Freier Fluss Speed (m/s)": 25.277779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "H\u00fcttenstra\u00dfe",
+            "L\u00e4nge (Meter)": 714.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Oberbilker Allee",
+            "L\u00e4nge (Meter)": 1138.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Karlstra\u00dfe",
+            "L\u00e4nge (Meter)": 373.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kalkumer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 11.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "Reichswaldallee",
+            "L\u00e4nge (Meter)": 2955.0,
+            "Aktueller Speed (m/s)": 26.38889,
+            "Freier Fluss Speed (m/s)": 26.38889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Simrockstra\u00dfe",
+            "L\u00e4nge (Meter)": 1670.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bergische Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 660.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Sankt-Franziskus-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1140.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Hamborner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 455.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kaiserstra\u00dfe",
+            "L\u00e4nge (Meter)": 449.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Jacobistra\u00dfe",
+            "L\u00e4nge (Meter)": 51.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.9,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Adlerstra\u00dfe",
+            "L\u00e4nge (Meter)": 927.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Simrockstra\u00dfe",
+            "L\u00e4nge (Meter)": 467.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Cecilienallee",
+            "L\u00e4nge (Meter)": 207.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kruppstra\u00dfe",
+            "L\u00e4nge (Meter)": 14.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Ronsdorfer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1269.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Kettwiger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 18.0,
+            "Aktueller Speed (m/s)": 4.166667,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 3.5,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Breite Stra\u00dfe",
+            "L\u00e4nge (Meter)": 150.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kavalleriestra\u00dfe",
+            "L\u00e4nge (Meter)": 405.0,
+            "Aktueller Speed (m/s)": 15.555556,
+            "Freier Fluss Speed (m/s)": 14.166667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fcnsterstra\u00dfe",
+            "L\u00e4nge (Meter)": 2119.0,
+            "Aktueller Speed (m/s)": 10.555556,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Theodor-Heuss-Br\u00fccke",
+            "L\u00e4nge (Meter)": 1493.0,
+            "Aktueller Speed (m/s)": 19.166668,
+            "Freier Fluss Speed (m/s)": 19.722223,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Uerdinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 963.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 13.611112,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "K\u00fcrtenstra\u00dfe",
+            "L\u00e4nge (Meter)": 332.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Parsevalstra\u00dfe",
+            "L\u00e4nge (Meter)": 1097.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Nordfriedhof",
+            "L\u00e4nge (Meter)": 1044.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 13.611112,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Rath (\u00dcbergang A52/B1)",
+            "L\u00e4nge (Meter)": 1245.0,
+            "Aktueller Speed (m/s)": 15.277779,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Simrockstra\u00dfe",
+            "L\u00e4nge (Meter)": 471.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "J\u00e4gerhofstra\u00dfe",
+            "L\u00e4nge (Meter)": 317.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Oberkasseler Br\u00fccke",
+            "L\u00e4nge (Meter)": 909.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Prinz-Georg-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 870.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Oststra\u00dfe",
+            "L\u00e4nge (Meter)": 236.0,
+            "Aktueller Speed (m/s)": 2.5,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum",
+            "L\u00e4nge (Meter)": 648.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Erkrather Stra\u00dfe",
+            "L\u00e4nge (Meter)": 243.0,
+            "Aktueller Speed (m/s)": 3.0555556,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Wehrhahn",
+            "L\u00e4nge (Meter)": 535.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Staufenplatz",
+            "L\u00e4nge (Meter)": 519.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Graf-Adolf-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 632.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eller Kamp",
+            "L\u00e4nge (Meter)": 1259.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Fleher Br\u00fccke",
+            "L\u00e4nge (Meter)": 2514.0,
+            "Aktueller Speed (m/s)": 27.5,
+            "Freier Fluss Speed (m/s)": 23.611113,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fcnchener Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1238.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Hamm",
+            "L\u00e4nge (Meter)": 1088.0,
+            "Aktueller Speed (m/s)": 16.666668,
+            "Freier Fluss Speed (m/s)": 18.055555,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Bilk",
+            "L\u00e4nge (Meter)": 1381.0,
+            "Aktueller Speed (m/s)": 23.88889,
+            "Freier Fluss Speed (m/s)": 23.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Immermannstra\u00dfe",
+            "L\u00e4nge (Meter)": 230.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Homberger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 891.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Klein-Eller",
+            "L\u00e4nge (Meter)": 1598.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Ei",
+            "L\u00e4nge (Meter)": 2058.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Eller",
+            "L\u00e4nge (Meter)": 2021.0,
+            "Aktueller Speed (m/s)": 13.611112,
+            "Freier Fluss Speed (m/s)": 13.611112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Universit\u00e4t",
+            "L\u00e4nge (Meter)": 1134.0,
+            "Aktueller Speed (m/s)": 23.333334,
+            "Freier Fluss Speed (m/s)": 24.722223,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bernburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 92.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "M\u00fcnchener Stra\u00dfe",
+            "L\u00e4nge (Meter)": 2028.0,
+            "Aktueller Speed (m/s)": "Unbekannt",
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 10.0,
+            "Vertrauen": "Unbekannt"
+        },
+        {
+            "Ort": "Graf-Adolf-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 790.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rotterdamer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 243.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 2.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "P\u00f6hlenweg",
+            "L\u00e4nge (Meter)": 1851.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Universit\u00e4t",
+            "L\u00e4nge (Meter)": 1701.0,
+            "Aktueller Speed (m/s)": 27.777779,
+            "Freier Fluss Speed (m/s)": 26.944445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Markenstra\u00dfe",
+            "L\u00e4nge (Meter)": 620.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Adlerstra\u00dfe",
+            "L\u00e4nge (Meter)": 11.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Grafenberger Allee",
+            "L\u00e4nge (Meter)": 891.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Rath",
+            "L\u00e4nge (Meter)": 792.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Ei",
+            "L\u00e4nge (Meter)": 986.0,
+            "Aktueller Speed (m/s)": 13.888889,
+            "Freier Fluss Speed (m/s)": 15.0,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rather Broich",
+            "L\u00e4nge (Meter)": 1405.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Eckenerstra\u00dfe",
+            "L\u00e4nge (Meter)": 2085.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wersten",
+            "L\u00e4nge (Meter)": 1271.0,
+            "Aktueller Speed (m/s)": 26.944445,
+            "Freier Fluss Speed (m/s)": 25.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Holthausen",
+            "L\u00e4nge (Meter)": 598.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Wersten",
+            "L\u00e4nge (Meter)": 1156.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Uerdinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1386.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Harffstra\u00dfe",
+            "L\u00e4nge (Meter)": 593.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Corneliusstra\u00dfe",
+            "L\u00e4nge (Meter)": 227.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "J\u00e4gerhofstra\u00dfe",
+            "L\u00e4nge (Meter)": 46.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Dreherstra\u00dfe",
+            "L\u00e4nge (Meter)": 1527.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Corneliusstra\u00dfe",
+            "L\u00e4nge (Meter)": 427.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kruppstra\u00dfe",
+            "L\u00e4nge (Meter)": 906.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hans-Sachs-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1054.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bernburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 47.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Zentrum",
+            "L\u00e4nge (Meter)": 273.0,
+            "Aktueller Speed (m/s)": 15.833334,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ratinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 28.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Prinz-Georg-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 464.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Homberger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 54.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 13.611112,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eller Kamp",
+            "L\u00e4nge (Meter)": 1500.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.85
+        },
+        {
+            "Ort": "Elberfelder Stra\u00dfe",
+            "L\u00e4nge (Meter)": 448.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 6.111111,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Lindemannstra\u00dfe",
+            "L\u00e4nge (Meter)": 942.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Kaiserswerther Stra\u00dfe",
+            "L\u00e4nge (Meter)": 577.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Pempelforter Stra\u00dfe",
+            "L\u00e4nge (Meter)": 340.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Simrockstra\u00dfe",
+            "L\u00e4nge (Meter)": 1021.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Erkrather Stra\u00dfe",
+            "L\u00e4nge (Meter)": 658.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 3.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Mecumstra\u00dfe",
+            "L\u00e4nge (Meter)": 29.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Holthausen",
+            "L\u00e4nge (Meter)": 1283.0,
+            "Aktueller Speed (m/s)": 28.611113,
+            "Freier Fluss Speed (m/s)": 29.166668,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ratinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 364.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Immermannstra\u00dfe",
+            "L\u00e4nge (Meter)": 412.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Elisabethstra\u00dfe",
+            "L\u00e4nge (Meter)": 250.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "S\u00fcdring",
+            "L\u00e4nge (Meter)": 65.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum/Freiligrathplatz",
+            "L\u00e4nge (Meter)": 567.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nordfriedhof",
+            "L\u00e4nge (Meter)": 1484.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kaiserswerther Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1195.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "J\u00fclicher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 200.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 3.2,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Volmerswerther Stra\u00dfe",
+            "L\u00e4nge (Meter)": 472.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reichswaldallee",
+            "L\u00e4nge (Meter)": 52.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.85
+        },
+        {
+            "Ort": "Prinz-Georg-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 160.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Wersten",
+            "L\u00e4nge (Meter)": 414.0,
+            "Aktueller Speed (m/s)": 18.333334,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Oststra\u00dfe",
+            "L\u00e4nge (Meter)": 322.0,
+            "Aktueller Speed (m/s)": 4.4444447,
+            "Freier Fluss Speed (m/s)": 6.388889,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Torfbruchstra\u00dfe",
+            "L\u00e4nge (Meter)": 65.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Klever Stra\u00dfe",
+            "L\u00e4nge (Meter)": 426.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hamborner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 83.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum",
+            "L\u00e4nge (Meter)": 1008.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 21.38889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "K\u00f6lner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1101.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Ulmenstra\u00dfe",
+            "L\u00e4nge (Meter)": 1291.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Berliner Allee",
+            "L\u00e4nge (Meter)": 283.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Nord",
+            "L\u00e4nge (Meter)": 743.0,
+            "Aktueller Speed (m/s)": 27.777779,
+            "Freier Fluss Speed (m/s)": 27.777779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Heinrich-Heine-Allee",
+            "L\u00e4nge (Meter)": 287.0,
+            "Aktueller Speed (m/s)": 3.6111112,
+            "Freier Fluss Speed (m/s)": 6.666667,
+            "Stau-Faktor": 3.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ulmenstra\u00dfe",
+            "L\u00e4nge (Meter)": 245.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reichsstra\u00dfe",
+            "L\u00e4nge (Meter)": 488.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Gladbacher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 799.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 11.944445,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Parsevalstra\u00dfe",
+            "L\u00e4nge (Meter)": 38.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.3,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "Torfbruchstra\u00dfe",
+            "L\u00e4nge (Meter)": 1693.0,
+            "Aktueller Speed (m/s)": 10.277778,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.4,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Flughafen",
+            "L\u00e4nge (Meter)": 881.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Immermannstra\u00dfe",
+            "L\u00e4nge (Meter)": 738.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedrichstra\u00dfe",
+            "L\u00e4nge (Meter)": 137.0,
+            "Aktueller Speed (m/s)": 3.0555556,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Homberger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 441.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Hamborner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 37.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Prinz-Georg-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 733.0,
+            "Aktueller Speed (m/s)": 5.277778,
+            "Freier Fluss Speed (m/s)": 7.777778,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Pempelforter Stra\u00dfe",
+            "L\u00e4nge (Meter)": 264.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Prinz-Georg-Stra\u00dfe",
+            "L\u00e4nge (Meter)": 32.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 7.5,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Posener Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1644.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.94
+        },
+        {
+            "Ort": "Elisabethstra\u00dfe",
+            "L\u00e4nge (Meter)": 102.0,
+            "Aktueller Speed (m/s)": 6.388889,
+            "Freier Fluss Speed (m/s)": 4.7222223,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Kalkumer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 25.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 5.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Gladbacher Stra\u00dfe",
+            "L\u00e4nge (Meter)": 982.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 16.11111,
+            "Stau-Faktor": 2.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rethelstra\u00dfe",
+            "L\u00e4nge (Meter)": 870.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Christophstra\u00dfe",
+            "L\u00e4nge (Meter)": 674.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fcnchener Stra\u00dfe",
+            "L\u00e4nge (Meter)": 420.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Friedrichstra\u00dfe",
+            "L\u00e4nge (Meter)": 138.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 5.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.82
+        },
+        {
+            "Ort": "K\u00f6lner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1207.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Bernburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1283.0,
+            "Aktueller Speed (m/s)": 9.166667,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.93
+        },
+        {
+            "Ort": "Kasernenstra\u00dfe",
+            "L\u00e4nge (Meter)": 108.0,
+            "Aktueller Speed (m/s)": 3.3333335,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "K\u00f6lner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 36.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.92
+        },
+        {
+            "Ort": "Nach den Mauresk\u00f6then",
+            "L\u00e4nge (Meter)": 1116.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "H\u00f6herweg",
+            "L\u00e4nge (Meter)": 56.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00fcnchener Stra\u00dfe",
+            "L\u00e4nge (Meter)": 993.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eckenerstra\u00dfe",
+            "L\u00e4nge (Meter)": 33.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Breite Stra\u00dfe",
+            "L\u00e4nge (Meter)": 342.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Kaiserswerther Stra\u00dfe",
+            "L\u00e4nge (Meter)": 65.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 8.055555,
+            "Stau-Faktor": 1.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Parsevalstra\u00dfe",
+            "L\u00e4nge (Meter)": 881.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Knittkuhler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 2727.0,
+            "Aktueller Speed (m/s)": 12.777778,
+            "Freier Fluss Speed (m/s)": 12.777778,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bernburger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 607.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.1,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Rath",
+            "L\u00e4nge (Meter)": 520.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.2,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Weg",
+            "L\u00e4nge (Meter)": 974.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.89
+        },
+        {
+            "Ort": "M\u00fcnsterstra\u00dfe",
+            "L\u00e4nge (Meter)": 143.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 6.111111,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Holthausen",
+            "L\u00e4nge (Meter)": 1015.0,
+            "Aktueller Speed (m/s)": 26.666668,
+            "Freier Fluss Speed (m/s)": 28.333334,
+            "Stau-Faktor": 0.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Rath",
+            "L\u00e4nge (Meter)": 1966.0,
+            "Aktueller Speed (m/s)": 27.777779,
+            "Freier Fluss Speed (m/s)": 27.5,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Ei",
+            "L\u00e4nge (Meter)": 1756.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 13.055556,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "K\u00f6lner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 324.0,
+            "Aktueller Speed (m/s)": 3.3333335,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 3.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Oberkasseler Br\u00fccke",
+            "L\u00e4nge (Meter)": 1036.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 1.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Worringer Platz",
+            "L\u00e4nge (Meter)": 532.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 3.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Simrockstra\u00dfe",
+            "L\u00e4nge (Meter)": 339.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am H\u00fclserhof",
+            "L\u00e4nge (Meter)": 610.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Stockum/Freiligrathplatz",
+            "L\u00e4nge (Meter)": 441.0,
+            "Aktueller Speed (m/s)": 22.222223,
+            "Freier Fluss Speed (m/s)": 21.944445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Johannstra\u00dfe",
+            "L\u00e4nge (Meter)": 2068.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Vogelsanger Weg",
+            "L\u00e4nge (Meter)": 503.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "H\u00f6herweg",
+            "L\u00e4nge (Meter)": 611.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Nordfriedhof",
+            "L\u00e4nge (Meter)": 664.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Rath (\u00dcbergang A52/B1)",
+            "L\u00e4nge (Meter)": 578.0,
+            "Aktueller Speed (m/s)": 18.88889,
+            "Freier Fluss Speed (m/s)": 18.88889,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Sch\u00f6nenkamp",
+            "L\u00e4nge (Meter)": 906.0,
+            "Aktueller Speed (m/s)": 10.833334,
+            "Freier Fluss Speed (m/s)": 9.722222,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.88
+        },
+        {
+            "Ort": "Henkelstra\u00dfe",
+            "L\u00e4nge (Meter)": 58.0,
+            "Aktueller Speed (m/s)": 7.777778,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.78
+        },
+        {
+            "Ort": "Erkrather Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1203.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 2.0,
+            "Vertrauen": 0.95
+        },
+        {
+            "Ort": "H\u00fcttenstra\u00dfe",
+            "L\u00e4nge (Meter)": 215.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.7,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "K\u00f6lner Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 1198.0,
+            "Aktueller Speed (m/s)": 9.444445,
+            "Freier Fluss Speed (m/s)": 11.388889,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Bilk",
+            "L\u00e4nge (Meter)": 1514.0,
+            "Aktueller Speed (m/s)": 21.111113,
+            "Freier Fluss Speed (m/s)": 22.222223,
+            "Stau-Faktor": 0.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "S\u00fcdring",
+            "L\u00e4nge (Meter)": 711.0,
+            "Aktueller Speed (m/s)": 13.888889,
+            "Freier Fluss Speed (m/s)": 15.555556,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ludenberger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 54.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Plockstra\u00dfe",
+            "L\u00e4nge (Meter)": 324.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 12.222222,
+            "Stau-Faktor": 2.4,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Theodorstra\u00dfe",
+            "L\u00e4nge (Meter)": 17.0,
+            "Aktueller Speed (m/s)": 8.055555,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.8,
+            "Vertrauen": 0.77
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Wersten",
+            "L\u00e4nge (Meter)": 1856.0,
+            "Aktueller Speed (m/s)": 12.222222,
+            "Freier Fluss Speed (m/s)": 13.611112,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Ronsdorfer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 877.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 9.166667,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Klein-Eller",
+            "L\u00e4nge (Meter)": 71.0,
+            "Aktueller Speed (m/s)": 8.611112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Am Gro\u00dfen Dern",
+            "L\u00e4nge (Meter)": 1140.0,
+            "Aktueller Speed (m/s)": 6.9444447,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Bilker Allee",
+            "L\u00e4nge (Meter)": 484.0,
+            "Aktueller Speed (m/s)": 6.111111,
+            "Freier Fluss Speed (m/s)": 10.0,
+            "Stau-Faktor": 3.5,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Staufenplatz",
+            "L\u00e4nge (Meter)": 49.0,
+            "Aktueller Speed (m/s)": 9.722222,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 1.1,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Bachstra\u00dfe",
+            "L\u00e4nge (Meter)": 55.0,
+            "Aktueller Speed (m/s)": 5.555556,
+            "Freier Fluss Speed (m/s)": 8.888889,
+            "Stau-Faktor": 2.5,
+            "Vertrauen": 0.87
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Rath (\u00dcbergang A52/B1)",
+            "L\u00e4nge (Meter)": 79.0,
+            "Aktueller Speed (m/s)": 3.888889,
+            "Freier Fluss Speed (m/s)": 20.0,
+            "Stau-Faktor": 8.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Reichswaldallee",
+            "L\u00e4nge (Meter)": 783.0,
+            "Aktueller Speed (m/s)": 18.055555,
+            "Freier Fluss Speed (m/s)": 17.777779,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rather Broich",
+            "L\u00e4nge (Meter)": 1179.0,
+            "Aktueller Speed (m/s)": 11.666667,
+            "Freier Fluss Speed (m/s)": 10.833334,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Hamborner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 2179.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.91
+        },
+        {
+            "Ort": "Fischerstra\u00dfe",
+            "L\u00e4nge (Meter)": 958.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.333334,
+            "Stau-Faktor": 2.8,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Stockumer Kirchstra\u00dfe",
+            "L\u00e4nge (Meter)": 1501.0,
+            "Aktueller Speed (m/s)": 13.611112,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 0.2,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "V\u00f6lklinger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 209.0,
+            "Aktueller Speed (m/s)": 11.944445,
+            "Freier Fluss Speed (m/s)": 13.888889,
+            "Stau-Faktor": 1.4,
+            "Vertrauen": 0.9
+        },
+        {
+            "Ort": "Stockumer Kirchstra\u00dfe",
+            "L\u00e4nge (Meter)": 1362.0,
+            "Aktueller Speed (m/s)": 8.888889,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 0.5,
+            "Vertrauen": 0.96
+        },
+        {
+            "Ort": "Harffstra\u00dfe",
+            "L\u00e4nge (Meter)": 1206.0,
+            "Aktueller Speed (m/s)": 8.333334,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "J\u00e4gerhofstra\u00dfe",
+            "L\u00e4nge (Meter)": 429.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Altenbr\u00fcckstra\u00dfe",
+            "L\u00e4nge (Meter)": 868.0,
+            "Aktueller Speed (m/s)": 11.388889,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.78
+        },
+        {
+            "Ort": "Stoffeler Stra\u00dfe",
+            "L\u00e4nge (Meter)": 892.0,
+            "Aktueller Speed (m/s)": 7.5,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 2.7,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "K\u00f6lner Stra\u00dfe",
+            "L\u00e4nge (Meter)": 778.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 10.277778,
+            "Stau-Faktor": 2.6,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "M\u00f6rsenbroicher Ei",
+            "L\u00e4nge (Meter)": 1416.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Rotterdamer Stra\u00dfe",
+            "L\u00e4nge (Meter)": 41.0,
+            "Aktueller Speed (m/s)": 5.0,
+            "Freier Fluss Speed (m/s)": 7.2222223,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.98
+        },
+        {
+            "Ort": "Rheinufertunnel",
+            "L\u00e4nge (Meter)": 435.0,
+            "Aktueller Speed (m/s)": 15.0,
+            "Freier Fluss Speed (m/s)": 16.666668,
+            "Stau-Faktor": 0.9,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "D\u00fcsseldorf-Wersten",
+            "L\u00e4nge (Meter)": 1175.0,
+            "Aktueller Speed (m/s)": 24.722223,
+            "Freier Fluss Speed (m/s)": 23.611113,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Eulerstra\u00dfe",
+            "L\u00e4nge (Meter)": 1024.0,
+            "Aktueller Speed (m/s)": 10.0,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Nord-S\u00fcd-Tunnel",
+            "L\u00e4nge (Meter)": 154.0,
+            "Aktueller Speed (m/s)": 11.111112,
+            "Freier Fluss Speed (m/s)": 11.111112,
+            "Stau-Faktor": 0.0,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Elisabethstra\u00dfe",
+            "L\u00e4nge (Meter)": 1135.0,
+            "Aktueller Speed (m/s)": 5.8333335,
+            "Freier Fluss Speed (m/s)": 6.9444447,
+            "Stau-Faktor": 1.6,
+            "Vertrauen": 0.97
+        },
+        {
+            "Ort": "Kettwiger Stra\u00dfe",
+            "L\u00e4nge (Meter)": 1110.0,
+            "Aktueller Speed (m/s)": 7.2222223,
+            "Freier Fluss Speed (m/s)": 9.444445,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Grafenberger Allee",
+            "L\u00e4nge (Meter)": 1059.0,
+            "Aktueller Speed (m/s)": 4.7222223,
+            "Freier Fluss Speed (m/s)": 10.555556,
+            "Stau-Faktor": 3.1,
+            "Vertrauen": 0.99
+        },
+        {
+            "Ort": "Bergische Landstra\u00dfe",
+            "L\u00e4nge (Meter)": 55.0,
+            "Aktueller Speed (m/s)": 6.666667,
+            "Freier Fluss Speed (m/s)": 8.611112,
+            "Stau-Faktor": 1.3,
+            "Vertrauen": 0.83
+        }
+    ]
+}
